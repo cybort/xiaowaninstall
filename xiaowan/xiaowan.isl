@@ -3186,7 +3186,9 @@
 		<col def="I2">Order</col>
 		<col def="I2">ISSetupLocation</col>
 		<col def="S255">ISReleaseFlags</col>
-		<row><td>_646E3D80_5A33_4368_A120_EBD4B0C4EDCD_</td><td>Microsoft .NET Framework 3.5 SP1.prq</td><td/><td>1</td><td/></row>
+		<row><td>_08AF8697_D91D_4AE5_B821_6DE642E174B5_</td><td>Microsoft Visual C++ 2012 Redistributable Package (x86).prq</td><td/><td/><td/></row>
+		<row><td>_646E3D80_5A33_4368_A120_EBD4B0C4EDCD_</td><td>Microsoft .NET Framework 3.5 SP1.prq</td><td/><td>0</td><td/></row>
+		<row><td>_C344FCF4_5B17_4114_94E8_56D36A33C810_</td><td>Microsoft Visual C++ 2010 Redistributable Package (x86).prq</td><td/><td/><td/></row>
 	</table>
 
 	<table name="ISSetupType">
