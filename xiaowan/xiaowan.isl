@@ -225,7 +225,7 @@
 	<table name="AppSearch">
 		<col key="yes" def="s72">Property</col>
 		<col key="yes" def="s72">Signature_</col>
-		<row><td>DOTNETVERSION35SP1</td><td>DotNet35SP1</td></row>
+		<row><td>DOTNETVERSION40FULL</td><td>DotNet40Full</td></row>
 	</table>
 
 	<table name="BBControl">
@@ -340,139 +340,148 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>ASL.dll</td><td>{149296AF-494A-4FD7-91C8-79AFAD2A0517}</td><td>QTFILES</td><td>2</td><td/><td>asl.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>AddGrainC.dll</td><td>{DECBEDDE-674E-4DC1-ABF2-569EE03B0B78}</td><td>AVSFILTER</td><td>2</td><td/><td>addgrainc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>AviSynth.dll</td><td>{73B4285E-B8D8-45BA-B885-03E530C847D2}</td><td>TOOLS</td><td>2</td><td/><td>avisynth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>AxInterop.WMPLib.dll</td><td>{A7509B61-03B4-44E2-B460-D69C463D97D3}</td><td>INSTALLDIR</td><td>2</td><td/><td>axinterop.wmplib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>BT709ToBT601.dll</td><td>{6C35484C-D3BD-4485-964F-6DA3B7607294}</td><td>AVSFILTER</td><td>2</td><td/><td>bt709tobt601.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ColorMatrix.dll</td><td>{7E859E90-2B1B-444B-A845-3B931B68DC3E}</td><td>AVSFILTER</td><td>2</td><td/><td>colormatrix.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ControlExs.dll</td><td>{67320CB5-4530-4102-81F1-56A916F8146C}</td><td>INSTALLDIR</td><td>2</td><td/><td>controlexs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Convolution3DYV12.dll</td><td>{7E7E98C7-EA20-4841-9604-0EC67D22396E}</td><td>AVSFILTER</td><td>2</td><td/><td>convolution3dyv12.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>CoreAudioToolbox.dll</td><td>{E396BB73-F3D5-4060-9E95-067EF844E9D5}</td><td>QTFILES</td><td>2</td><td/><td>coreaudiotoolbox.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>CoreFoundation.dll</td><td>{2759EA44-76A2-462A-8D46-3E12A1BB7465}</td><td>QTFILES</td><td>2</td><td/><td>corefoundation.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>DGDecodeNV.dll</td><td>{70F847E0-11E6-4DE3-80EF-5634121CA410}</td><td>AVSFILTER</td><td>2</td><td/><td>dgdecodenv.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>DctFilter.dll</td><td>{636A9372-BCC9-4788-A03C-AEE6D1057E62}</td><td>AVSFILTER</td><td>2</td><td/><td>dctfilter.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Decomb.dll</td><td>{92B9C6BC-F2A0-448E-850A-4F6A91EBFD3B}</td><td>AVSFILTER</td><td>2</td><td/><td>decomb.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>DevIL.dll</td><td>{079A4DCC-92F1-4D83-86BC-6132374D5F40}</td><td>TOOLS</td><td>2</td><td/><td>devil.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>DirectShowSource.dll</td><td>{71EDCE5A-764E-4872-BFF1-657F007260B8}</td><td>AVSFILTER</td><td>2</td><td/><td>directshowsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>EEDI2.dll</td><td>{AEFA83F0-7D82-44E0-86FB-0BAD3BE39925}</td><td>AVSFILTER</td><td>2</td><td/><td>eedi2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>EEDI2_imp.dll</td><td>{4DB2998C-5767-447F-A6CB-9AEDCBEC97E3}</td><td>AVSFILTER</td><td>2</td><td/><td>eedi2_imp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FFT3DFilter.dll</td><td>{CE2C7E84-15BE-4EBF-B80D-843B8D1B1CF6}</td><td>AVSFILTER</td><td>2</td><td/><td>fft3dfilter.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FFT3dGPU.dll</td><td>{D814183C-1646-4C15-AD9A-73C906CE733D}</td><td>AVSFILTER</td><td>2</td><td/><td>fft3dgpu.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FLVExtractCL.exe</td><td>{402FCD2C-E07E-4D92-90B2-DCFFAF5DE731}</td><td>TOOLS</td><td>2</td><td/><td>flvextractcl.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FLVLib.dll</td><td>{ABD88B57-C983-4CED-BE29-E44986555B8F}</td><td>TOOLS</td><td>2</td><td/><td>flvlib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FluxSmooth.dll</td><td>{80381D6A-A4C3-4727-B055-80EB5577E87A}</td><td>AVSFILTER</td><td>2</td><td/><td>fluxsmooth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FlvBind.exe</td><td>{02073A96-93E2-416F-BDEC-9B3112F2D64A}</td><td>TOOLS</td><td>2</td><td/><td>flvbind.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ASL.dll</td><td>{2D2B4DC7-4F57-4019-97BD-FDF65ABFB88B}</td><td>QTFILES</td><td>2</td><td/><td>asl.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>AddGrainC.dll</td><td>{53256E29-E3F1-42D9-8804-A6210BB3337B}</td><td>AVSFILTER</td><td>2</td><td/><td>addgrainc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>AxInterop.WMPLib.dll</td><td>{0DC175D0-5070-4AEB-9C7E-22A3CAF42886}</td><td>INSTALLDIR</td><td>2</td><td/><td>axinterop.wmplib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>BT709ToBT601.dll</td><td>{2E1C31F4-CE10-4494-A074-3C8CA2AF672A}</td><td>AVSFILTER</td><td>2</td><td/><td>bt709tobt601.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ColorMatrix.dll</td><td>{A0948461-02E2-4363-9F15-967D587B39AD}</td><td>AVSFILTER</td><td>2</td><td/><td>colormatrix.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ControlExs.dll</td><td>{63D438F8-2F6C-4D81-87E8-89E05A2DB1BC}</td><td>INSTALLDIR</td><td>2</td><td/><td>controlexs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Convolution3DYV12.dll</td><td>{20B69D67-34FE-4D08-B550-2FC929EB8304}</td><td>AVSFILTER</td><td>2</td><td/><td>convolution3dyv12.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>CoreAudioToolbox.dll</td><td>{D91E1FBC-8F44-4B27-8EB0-8204ED111BE8}</td><td>QTFILES</td><td>2</td><td/><td>coreaudiotoolbox.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>CoreFoundation.dll</td><td>{CE3CC733-562F-4953-8DD4-049950537B7C}</td><td>QTFILES</td><td>2</td><td/><td>corefoundation.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>DGDecodeNV.dll</td><td>{64073698-6C04-46C9-85C1-72DC300366FA}</td><td>AVSFILTER</td><td>2</td><td/><td>dgdecodenv.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>DctFilter.dll</td><td>{18BF1A85-AB8C-4CA1-8330-DC36B13CA29C}</td><td>AVSFILTER</td><td>2</td><td/><td>dctfilter.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Decomb.dll</td><td>{34ED5875-CFFF-48D3-9EBA-D561D4B3B482}</td><td>AVSFILTER</td><td>2</td><td/><td>decomb.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>DirectShowSource.dll</td><td>{2A5C3706-F489-4DF4-966A-05E8E0EEAE15}</td><td>AVSFILTER</td><td>2</td><td/><td>directshowsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>EEDI2.dll</td><td>{D46B0C33-1687-45C7-AB8B-0B5B4301C400}</td><td>AVSFILTER</td><td>2</td><td/><td>eedi2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>EEDI2_imp.dll</td><td>{0304605A-8D6A-4EAC-B76F-2BF58487C357}</td><td>AVSFILTER</td><td>2</td><td/><td>eedi2_imp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FFT3DFilter.dll</td><td>{B0681AFE-5FD9-4AB8-8AEF-C7FC67B0928E}</td><td>AVSFILTER</td><td>2</td><td/><td>fft3dfilter.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FFT3dGPU.dll</td><td>{09A04874-3596-4A20-B4AA-6522E7CB746F}</td><td>AVSFILTER</td><td>2</td><td/><td>fft3dgpu.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FLVExtractCL.exe</td><td>{AC27C84C-D20D-4B2B-BD93-440D5175CD05}</td><td>TOOLS</td><td>2</td><td/><td>flvextractcl.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FLVLib.dll</td><td>{9CD16CD4-97BD-4516-A04A-C9D611FF47CD}</td><td>TOOLS</td><td>2</td><td/><td>flvlib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FluxSmooth.dll</td><td>{F4560C4C-6B07-48BE-BFE2-40D748C95815}</td><td>AVSFILTER</td><td>2</td><td/><td>fluxsmooth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FlvBind.exe</td><td>{6C1E0055-2132-43E9-80D6-35AE61700032}</td><td>TOOLS</td><td>2</td><td/><td>flvbind.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{4DC4A4BD-03E6-4519-95DE-8ACC84297FB8}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{36523C80-26F6-42AA-808D-083FE2820895}</td><td>EN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{5D9C76CF-2141-41E3-9AE4-676C20E904CC}</td><td>JA_JP</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{1A5B89CF-4507-444F-8A45-343E9E0F0C64}</td><td>TOOLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{7EE2974A-777A-40F9-B657-EC300ABDB45F}</td><td>AVSFILTER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{8F526969-8557-4ACF-A05B-BA36CF77ABF0}</td><td>PRESET</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{6A6C0B9E-7428-46CE-9C33-E829D73BCBB8}</td><td>QTFILES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{B42E0EC1-2198-4234-8ED1-501E22743C74}</td><td>X64</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{1B1F7B0D-F81D-4C81-B92D-52570DE66C44}</td><td>ZH_HANT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Interop.WMPLib.dll</td><td>{B8FD5BC6-6B0B-4456-9057-E4FF3933B2E0}</td><td>INSTALLDIR</td><td>2</td><td/><td>interop.wmplib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>LSMASHSource.dll</td><td>{96580EEE-43E6-4125-8EAB-4ABD69928941}</td><td>AVSFILTER</td><td>2</td><td/><td>lsmashsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>LeakKernelDeint.dll</td><td>{396C123C-812E-4ABD-B429-932EFFF84C85}</td><td>AVSFILTER</td><td>2</td><td/><td>leakkerneldeint.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MP4Box.exe</td><td>{261935BD-C7ED-47DB-8A19-0B744C48A97B}</td><td>TOOLS</td><td>2</td><td/><td>mp4box.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MSharpen.dll</td><td>{190CDD88-F0F4-4FFB-A548-671AF650C47E}</td><td>AVSFILTER</td><td>2</td><td/><td>msharpen.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MVCsource.dll</td><td>{CC3B59A8-048A-4067-A74A-B1FD17A593B6}</td><td>AVSFILTER</td><td>2</td><td/><td>mvcsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MediaInfo.dll</td><td>{0DAFADCD-C6B9-468B-A524-44091845E763}</td><td>TOOLS</td><td>2</td><td/><td>mediainfo.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MediaInfo.dll1</td><td>{E60CABB9-EF07-4CDD-A551-1396AD6B3F8D}</td><td>X64</td><td>2</td><td/><td>mediainfo.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>{6EFC3C65-0AD5-419B-A6BC-35933BBF8856}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td>{04B17791-DE63-4A38-B37B-84B54C1D21B1}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>OpenCL.dll</td><td>{D6B43B11-0EDD-4EC3-9492-2031C941338A}</td><td>TOOLS</td><td>2</td><td/><td>opencl.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>PNLM.dll</td><td>{91076DF9-0B2E-4130-8A69-FC6A1C6416F5}</td><td>AVSFILTER</td><td>2</td><td/><td>pnlm.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>QTCF.dll</td><td>{2395B682-E473-4C97-AEA0-E06FEE9462DF}</td><td>TOOLS</td><td>2</td><td/><td>qtcf.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RSharpen.dll</td><td>{F2A3434D-209F-4BBD-8E44-8C5AD7D3305F}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpen.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RSharpenS.dll</td><td>{11CC2B4F-94E6-463B-ABF2-0860DF1337AD}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpens.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RSharpenSSE2.dll</td><td>{DFC1CF97-92EE-48CB-87D9-E4FA5F325D0A}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpensse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RSharpenSSE3.dll</td><td>{D5939976-51B1-42DF-A19B-12B8700DBC16}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpensse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RemoveGrain.dll</td><td>{93AD40F0-8AEA-4656-9D74-142ACA658C96}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrain.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RemoveGrainS.dll</td><td>{599FFAB2-C26F-49DA-AA30-A27459472EB5}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrains.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RemoveGrainSSE2.dll</td><td>{F0DAD343-1575-43FF-85DA-C618B382FAFC}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrainsse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RemoveGrainSSE3.dll</td><td>{5A8D047A-06C9-493E-8BAB-27C70281C880}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrainsse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Repair.dll</td><td>{16894F18-F2DF-4237-8DEC-1494C987ABDE}</td><td>AVSFILTER</td><td>2</td><td/><td>repair.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RepairS.dll</td><td>{51E5D5C8-3AA2-47F9-8215-40297E062F8F}</td><td>AVSFILTER</td><td>2</td><td/><td>repairs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RepairSSE2.dll</td><td>{9F6C8470-2352-4988-A9B8-A354EA81D1E3}</td><td>AVSFILTER</td><td>2</td><td/><td>repairsse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>RepairSSE3.dll</td><td>{4312A692-38F0-4ECB-903F-F15F1DFB6C34}</td><td>AVSFILTER</td><td>2</td><td/><td>repairsse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SSE2Tools.dll</td><td>{6750347B-DCEC-41E7-93D5-571D4969C967}</td><td>AVSFILTER</td><td>2</td><td/><td>sse2tools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SSE3Tools.dll</td><td>{6ACA34D8-B48F-4B1A-BE07-1D10F958AB87}</td><td>AVSFILTER</td><td>2</td><td/><td>sse3tools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SSETools.dll</td><td>{B3C94A6D-27F8-4BAB-AFD0-186EC3B5E230}</td><td>AVSFILTER</td><td>2</td><td/><td>ssetools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SSEToolsS.dll</td><td>{A797B3D0-13EF-4F69-A7B4-0B2568385C5C}</td><td>AVSFILTER</td><td>2</td><td/><td>ssetoolss.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SangNom.dll</td><td>{0466FCC3-44F4-40A6-AFE1-0C4E4C683492}</td><td>AVSFILTER</td><td>2</td><td/><td>sangnom.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SmoothAdjust.dll</td><td>{FA7232EB-DD84-4E8F-8940-FC8BFD0BA328}</td><td>AVSFILTER</td><td>2</td><td/><td>smoothadjust.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TCPDeliver.dll</td><td>{8FB596FD-0207-40C1-A9B7-0EE138F7BE91}</td><td>AVSFILTER</td><td>2</td><td/><td>tcpdeliver.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TDeint.dll</td><td>{0486E743-0F68-4175-8E15-FC5B79541945}</td><td>AVSFILTER</td><td>2</td><td/><td>tdeint.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TEdgeMask.dll</td><td>{1E9B656F-E9E8-49B1-BAD3-98E389C0DBA8}</td><td>AVSFILTER</td><td>2</td><td/><td>tedgemask.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TIVTC.dll</td><td>{10F6B0BA-9BDC-476B-A6C0-48B823ADCECB}</td><td>AVSFILTER</td><td>2</td><td/><td>tivtc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TTempSmooth.dll</td><td>{AE4BA52F-92A2-442C-A5C3-36BB1133CA72}</td><td>AVSFILTER</td><td>2</td><td/><td>ttempsmooth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>UnDot.dll</td><td>{F21DD86A-657C-4811-ADE9-5DFFECB3A043}</td><td>AVSFILTER</td><td>2</td><td/><td>undot.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>VSFilter.dll</td><td>{D768B665-799E-49E1-A619-DC37B897DF1A}</td><td>TOOLS</td><td>2</td><td/><td>vsfilter.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>VSFilter.dll1</td><td>{CB337421-62AA-4FBD-931E-B8AC6996C84B}</td><td>AVSFILTER</td><td>2</td><td/><td>vsfilter.dll1</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>VSFilter64.dll</td><td>{56526C84-CB27-412A-BD63-67397DFA34FC}</td><td>TOOLS</td><td>2</td><td/><td>vsfilter64.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>VSFilterMod.dll</td><td>{441A7937-BE30-49D1-AD1C-D2AAD8FBFEC5}</td><td>AVSFILTER</td><td>2</td><td/><td>vsfiltermod.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>VapourSource.dll</td><td>{60D5143B-589B-4CB4-9A5A-B2CAE65CE277}</td><td>AVSFILTER</td><td>2</td><td/><td>vapoursource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>aWarpSharp.dll</td><td>{8EEA61EF-C2F7-4BEB-836B-BB6F56CD684E}</td><td>AVSFILTER</td><td>2</td><td/><td>awarpsharp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>avstp.dll</td><td>{77C65BE3-AC21-44EE-9C87-06374F0FCA07}</td><td>AVSFILTER</td><td>2</td><td/><td>avstp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>deblock.dll</td><td>{6FDD0550-D550-4956-8DE6-45C7F9EEA310}</td><td>AVSFILTER</td><td>2</td><td/><td>deblock.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>delogo.dll</td><td>{50A1EBF2-019F-4209-A9F9-F87D6824095C}</td><td>AVSFILTER</td><td>2</td><td/><td>delogo.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>dfttest.dll</td><td>{3B35F45F-78F9-42AF-A7E4-6C0DC595793E}</td><td>AVSFILTER</td><td>2</td><td/><td>dfttest.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>dither.dll</td><td>{7C67E2BF-86FE-4F26-ADF6-D5E642402387}</td><td>AVSFILTER</td><td>2</td><td/><td>dither.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>fdkaac.exe</td><td>{9A956209-7779-4784-9DA2-4BE0F7970B1A}</td><td>TOOLS</td><td>2</td><td/><td>fdkaac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ffavisynth.dll</td><td>{1948CE27-1F0E-47E0-AD3B-6984D8808A8D}</td><td>AVSFILTER</td><td>2</td><td/><td>ffavisynth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ffmpeg.exe</td><td>{B74C3E13-CBFF-48CB-B50C-C53B374D4E87}</td><td>TOOLS</td><td>2</td><td/><td>ffmpeg.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ffms2.dll</td><td>{5389F60C-F41E-4542-B6DB-5891CC1AC860}</td><td>AVSFILTER</td><td>2</td><td/><td>ffms2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>fftw3.dll</td><td>{CC7921B3-A5FD-4575-BEE6-FE471F517F8A}</td><td>AVSFILTER</td><td>2</td><td/><td>fftw3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>flac.exe</td><td>{10E241B3-0515-4322-8043-26223C94911D}</td><td>TOOLS</td><td>2</td><td/><td>flac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>flash3kyuu_deband.dll</td><td>{354267D0-4A93-4EB6-BCA9-7729E1039CEE}</td><td>AVSFILTER</td><td>2</td><td/><td>flash3kyuu_deband.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>fturn_25.dll</td><td>{83DF22DC-2E25-4C91-8190-6CBD3DCBD423}</td><td>AVSFILTER</td><td>2</td><td/><td>fturn_25.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>fturn_26.dll</td><td>{18239D83-2B60-4320-A2B7-05C774700FC6}</td><td>AVSFILTER</td><td>2</td><td/><td>fturn_26.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>gradfun2db.dll</td><td>{C5A7B38F-07F6-4876-820B-5D1555F504F5}</td><td>AVSFILTER</td><td>2</td><td/><td>gradfun2db.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>icudt49.dll</td><td>{6D32B778-C601-45B9-A38C-F87601B60CE9}</td><td>QTFILES</td><td>2</td><td/><td>icudt49.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>js.dll</td><td>{35CB9C37-535D-4DEC-9096-4DDC0A7010AA}</td><td>TOOLS</td><td>2</td><td/><td>js.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>js32.dll</td><td>{DE94AE44-001B-4ADF-B251-8FA8101BA627}</td><td>TOOLS</td><td>2</td><td/><td>js32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libdispatch.dll</td><td>{371D59E0-EE75-4DAE-BE5D-96491886031B}</td><td>QTFILES</td><td>2</td><td/><td>libdispatch.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libeay32.dll</td><td>{D0795FD1-B68E-4043-B675-095569E78CAB}</td><td>TOOLS</td><td>2</td><td/><td>libeay32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libfftw3f_3.dll</td><td>{F6A919A6-EEEA-4156-9AB2-A10E94759907}</td><td>AVSFILTER</td><td>2</td><td/><td>libfftw3f_3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libgpac.dll</td><td>{01F5F203-6E93-40F2-8FD1-6F0D127A08A3}</td><td>TOOLS</td><td>2</td><td/><td>libgpac.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libicuin.dll</td><td>{EBA6FC14-7E3F-478D-AB55-2C62C588B0FF}</td><td>QTFILES</td><td>2</td><td/><td>libicuin.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libicuuc.dll</td><td>{1B7081F9-F296-4BB4-84D7-D0B0E43BBE31}</td><td>QTFILES</td><td>2</td><td/><td>libicuuc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libsoxconvolver.dll</td><td>{0209BB21-72AA-465A-9F64-2A5F31FFF61E}</td><td>TOOLS</td><td>2</td><td/><td>libsoxconvolver.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libsoxr.dll</td><td>{0E190A01-3761-42FE-88A0-BA1FE4D2494F}</td><td>TOOLS</td><td>2</td><td/><td>libsoxr.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>medianblur.dll</td><td>{E214E10F-2FA8-484D-82E1-99EA37D22016}</td><td>AVSFILTER</td><td>2</td><td/><td>medianblur.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mfc100.dll</td><td>{8B6DE1B1-BCB8-42EC-8C49-F41F08E3D687}</td><td>TOOLS</td><td>2</td><td/><td>mfc100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mkvextract.exe</td><td>{CD81D8DC-6089-4FD7-94F1-3DC7C9D7EEE4}</td><td>TOOLS</td><td>2</td><td/><td>mkvextract.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mkvmerge.exe</td><td>{9014D936-A7F2-4401-9761-D372299E19A7}</td><td>TOOLS</td><td>2</td><td/><td>mkvmerge.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcp100.dll</td><td>{4704A8D0-4747-478D-8BCE-9E8EF7BFC3EF}</td><td>QTFILES</td><td>2</td><td/><td>msvcp100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcp120.dll</td><td>{B7927BDC-23E1-4FC4-996E-18402D4A68A0}</td><td>TOOLS</td><td>2</td><td/><td>msvcp120.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcr100.dll</td><td>{43CB280E-7796-4AE7-A2C7-13BA8CD8696E}</td><td>TOOLS</td><td>2</td><td/><td>msvcr100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcr100.dll1</td><td>{CD0BC3F7-C4A1-431D-9DCC-B525206C275F}</td><td>AVSFILTER</td><td>2</td><td/><td>msvcr100.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcr100.dll2</td><td>{0D2639FA-91C7-4644-ABC0-3A84462C195B}</td><td>QTFILES</td><td>2</td><td/><td>msvcr100.dll2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcr120.dll</td><td>{34610FFA-ED8D-4653-BCC8-E2AEBBD4BC50}</td><td>TOOLS</td><td>2</td><td/><td>msvcr120.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>msvcr120.dll1</td><td>{790755FD-3FE8-43F0-8E94-E7C4648D92EC}</td><td>AVSFILTER</td><td>2</td><td/><td>msvcr120.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mt_masktools_25.dll</td><td>{99F51A08-BB70-4AF0-A72E-3F9B67C2B662}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_25.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mt_masktools_25_x64.dll</td><td>{8D8CDEB5-FADC-4CE9-8562-4A55F818DC81}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_25_x64.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mt_masktools_26.dll</td><td>{02300BCF-DBB4-4332-AC0C-589012F8338B}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_26.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mt_masktools_26_x64.dll</td><td>{34ABA213-73DE-428F-8B56-13A3DA1FA8FA}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_26_x64.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>mvtools2.dll</td><td>{E833A3B6-9230-4DE5-B242-FD02671D8847}</td><td>AVSFILTER</td><td>2</td><td/><td>mvtools2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>neroAacEnc.exe</td><td>{DD382F8E-6727-4AC5-9F8B-BE93F38D4B2A}</td><td>TOOLS</td><td>2</td><td/><td>neroaacenc.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>nnedi3.dll</td><td>{2E9AD216-8017-4A01-BC06-6BD2C8BF9146}</td><td>AVSFILTER</td><td>2</td><td/><td>nnedi3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>objc.dll</td><td>{517C7204-4336-4679-871C-439C2BB97591}</td><td>QTFILES</td><td>2</td><td/><td>objc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>qaac.exe</td><td>{133038DB-AFB7-40E7-AC76-24ABF2046CC9}</td><td>TOOLS</td><td>2</td><td/><td>qaac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>refalac.exe</td><td>{12DB0DDB-1016-4F67-8A9E-C6A72B3419E6}</td><td>TOOLS</td><td>2</td><td/><td>refalac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ssleay32.dll</td><td>{F244FAFE-F692-47FC-927B-A0E6044E64B0}</td><td>TOOLS</td><td>2</td><td/><td>ssleay32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>tcanny.dll</td><td>{22D3F20E-7FC8-48C8-B64D-29D0AAE7E98E}</td><td>AVSFILTER</td><td>2</td><td/><td>tcanny.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>x264_32_10bit.exe</td><td>{7CF39464-F3A3-434C-BF08-4A1446CFCB70}</td><td>TOOLS</td><td>2</td><td/><td>x264_32_10bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>x264_32_8bit.exe</td><td>{2BFEB6F1-1A25-45EE-A292-ABCAF17E4979}</td><td>TOOLS</td><td>2</td><td/><td>x264_32_8bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>x264_64_10bit.exe</td><td>{69889341-C0EF-473D-961D-DB5BB38F5D17}</td><td>TOOLS</td><td>2</td><td/><td>x264_64_10bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>x264_64_8bit.exe</td><td>{D2EA9AFD-B21A-48CE-A5FE-D7C18903F6A2}</td><td>TOOLS</td><td>2</td><td/><td>x264_64_8bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>xiaowan.exe</td><td>{EB7D82B6-582E-46E6-8FE0-0A55890AEF24}</td><td>INSTALLDIR</td><td>2</td><td/><td>xiaowan.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>xiaowan.resources.dll</td><td>{A415F3FF-7CB1-421A-B050-0BCB9D2EC62C}</td><td>EN</td><td>2</td><td/><td>xiaowan.resources.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>xiaowan.resources.dll1</td><td>{A4DBC0CE-1C14-4864-8A86-F5E504D7B614}</td><td>JA_JP</td><td>2</td><td/><td>xiaowan.resources.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>xiaowan.resources.dll2</td><td>{F4F43AB1-F459-4503-B9B7-3495BEDA2475}</td><td>ZH_HANT</td><td>2</td><td/><td>xiaowan.resources.dll2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>xy_VSFilter.dll</td><td>{E20FF2D1-3BAD-477C-A148-4E61BEB75FC4}</td><td>AVSFILTER</td><td>2</td><td/><td>xy_vsfilter.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{42A0B62C-9B14-45D6-8363-8B7350FA9EFC}</td><td>EN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td>{2488D12B-608E-449B-9E70-9F589405F371}</td><td>QTFILES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td>{4136A25E-1B00-4D5D-8CF3-2A3BBEED0360}</td><td>X64</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td>{734B0125-8973-46A7-B729-C0D32DF705E6}</td><td>TOOLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{BC054855-BEBA-4177-8EC3-2E0D4363215A}</td><td>JA_JP</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{11B94DD1-4E20-4FD8-B9FF-F1F2D3DA9FE6}</td><td>LOGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{67EBCCEB-60E8-41ED-A44E-A5209E7E2A5E}</td><td>TOOLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{321175C1-C47C-4FDD-AB27-FCFA6B6B1474}</td><td>ZH_HANT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{78951D24-C772-4755-B611-ED30B9A11B00}</td><td>AVSFILTER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{392D81DB-EE9F-4994-B19F-3D3837A0ECD0}</td><td>AVSFILTER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{664524D6-937A-478C-9086-C4B30313B0D8}</td><td>PRESET</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{738A5CFC-F8FA-4866-B801-628DD111CFB0}</td><td>PRESET</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>IS_ININSTALL_SHORTCUT</td><td>{82BCDDB0-4983-4B8E-8197-0C259F26287C}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Interop.WMPLib.dll</td><td>{35ABFFC0-EAAC-44C3-8BCE-A264EEBCFACF}</td><td>INSTALLDIR</td><td>2</td><td/><td>interop.wmplib.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>LSMASHSource.dll</td><td>{30F1D9F3-B7E6-4614-991A-19D5C540D041}</td><td>AVSFILTER</td><td>2</td><td/><td>lsmashsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>LeakKernelDeint.dll</td><td>{B7CD506D-9E75-4C79-A627-C4F0070F50C2}</td><td>AVSFILTER</td><td>2</td><td/><td>leakkerneldeint.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MP4Box.exe</td><td>{005B154F-7AA7-423F-934B-62B68E137A3B}</td><td>TOOLS</td><td>2</td><td/><td>mp4box.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MSharpen.dll</td><td>{0D01A396-030E-43C1-A691-FF861943EB3F}</td><td>AVSFILTER</td><td>2</td><td/><td>msharpen.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MVCsource.dll</td><td>{7FA9C9DC-DC80-4315-8C6A-4F36DAAE209A}</td><td>AVSFILTER</td><td>2</td><td/><td>mvcsource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MediaInfo.dll</td><td>{7EEF6D91-A7E3-43E5-8E25-81D7E7A99519}</td><td>X64</td><td>2</td><td/><td>mediainfo.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MediaInfo.dll1</td><td>{68160056-D167-4DCC-9CD8-8C3E1C454223}</td><td>TOOLS</td><td>2</td><td/><td>mediainfo.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>OpenCL.dll</td><td>{EE336993-4A5E-461B-8F88-B36067500F97}</td><td>TOOLS</td><td>2</td><td/><td>opencl.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>PNLM.dll</td><td>{F76FEA48-9C3E-480C-B5FD-44F03CCFB6BB}</td><td>AVSFILTER</td><td>2</td><td/><td>pnlm.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>QTCF.dll</td><td>{A07099DE-94A5-4565-B8DE-74D381D93BC3}</td><td>TOOLS</td><td>2</td><td/><td>qtcf.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RSharpen.dll</td><td>{4CA0AB6E-8CEF-4EC1-9C7E-A251576A7CC9}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpen.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RSharpenS.dll</td><td>{73DB5EF9-207E-454B-B2BF-72F8F75F3505}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpens.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RSharpenSSE2.dll</td><td>{188EC845-D3B7-4DB9-8125-385EB5427EB3}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpensse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RSharpenSSE3.dll</td><td>{AC994C9C-3A18-4C37-922E-8E4998492678}</td><td>AVSFILTER</td><td>2</td><td/><td>rsharpensse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RemoveGrain.dll</td><td>{549949D5-F62F-4137-B533-FA3DCB00856D}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrain.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RemoveGrainS.dll</td><td>{FD196951-797B-4C78-9296-71CBF421F700}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrains.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RemoveGrainSSE2.dll</td><td>{1EB65C8F-3E66-4F91-BF4C-61D98948AF78}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrainsse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RemoveGrainSSE3.dll</td><td>{4301FF5E-8C86-4F26-9FA1-F61AEC93CCFF}</td><td>AVSFILTER</td><td>2</td><td/><td>removegrainsse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Repair.dll</td><td>{434C86ED-EB2D-45F4-9650-570328FA4A1C}</td><td>AVSFILTER</td><td>2</td><td/><td>repair.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RepairS.dll</td><td>{81A444F5-A5D1-4EBC-A074-21119F14B10D}</td><td>AVSFILTER</td><td>2</td><td/><td>repairs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RepairSSE2.dll</td><td>{A394A37D-452C-43DE-89E5-D541EEF60584}</td><td>AVSFILTER</td><td>2</td><td/><td>repairsse2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>RepairSSE3.dll</td><td>{AC2B9E6E-51AF-4C53-95A6-9E06428B85CA}</td><td>AVSFILTER</td><td>2</td><td/><td>repairsse3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SSE2Tools.dll</td><td>{5006BA96-FC93-4B95-97AE-42972D526847}</td><td>AVSFILTER</td><td>2</td><td/><td>sse2tools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SSE3Tools.dll</td><td>{EAC494E7-3706-4948-B82A-C14308A7A70F}</td><td>AVSFILTER</td><td>2</td><td/><td>sse3tools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SSETools.dll</td><td>{5A6CBDFF-49CA-461F-A90B-E42C90650FF5}</td><td>AVSFILTER</td><td>2</td><td/><td>ssetools.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SSEToolsS.dll</td><td>{5E4D86E4-D418-4CF4-8977-0A20C8E89DE3}</td><td>AVSFILTER</td><td>2</td><td/><td>ssetoolss.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SangNom.dll</td><td>{BE01EE6A-75A9-4878-9304-D9E6D9C03390}</td><td>AVSFILTER</td><td>2</td><td/><td>sangnom.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SmoothAdjust.dll</td><td>{9696C34E-F407-4D80-B250-A66E6ACD4F4B}</td><td>AVSFILTER</td><td>2</td><td/><td>smoothadjust.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TCPDeliver.dll</td><td>{12913639-8B02-4065-BB7E-A303123D2014}</td><td>AVSFILTER</td><td>2</td><td/><td>tcpdeliver.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TDeint.dll</td><td>{934AF9CA-FA7E-49A6-A767-52B9E00C0029}</td><td>AVSFILTER</td><td>2</td><td/><td>tdeint.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TEdgeMask.dll</td><td>{11BA3F0B-9582-4770-8395-902B9AF7FAFA}</td><td>AVSFILTER</td><td>2</td><td/><td>tedgemask.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TIVTC.dll</td><td>{63129233-CE63-4ECA-9CFE-33AB94E80018}</td><td>AVSFILTER</td><td>2</td><td/><td>tivtc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TTempSmooth.dll</td><td>{D534E51A-BC8B-432A-B025-177870D5BF6F}</td><td>AVSFILTER</td><td>2</td><td/><td>ttempsmooth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>UnDot.dll</td><td>{6BDD6BDA-FB2B-4B06-BB59-30D82C1F7EF6}</td><td>AVSFILTER</td><td>2</td><td/><td>undot.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>VSFilter.dll</td><td>{DD409EA0-2E2C-4BFD-B701-472B17F09905}</td><td>AVSFILTER</td><td>2</td><td/><td>vsfilter.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>VSFilter.dll1</td><td>{27AD7103-5BEE-4CEC-AE80-4BC47E9EBB68}</td><td>TOOLS</td><td>2</td><td/><td>vsfilter.dll1</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>VSFilter64.dll</td><td>{271022C3-A743-4AD5-9FA4-4B6ACB1491C1}</td><td>TOOLS</td><td>2</td><td/><td>vsfilter64.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>VSFilterMod.dll</td><td>{4810FF9C-92DA-47C1-91C1-6D71E9A4D107}</td><td>AVSFILTER</td><td>2</td><td/><td>vsfiltermod.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>VapourSource.dll</td><td>{9BD4372E-C10F-430D-82D1-AFDED5A442CD}</td><td>AVSFILTER</td><td>2</td><td/><td>vapoursource.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>aWarpSharp.dll</td><td>{7BE719C1-7918-4359-9637-531E47395423}</td><td>AVSFILTER</td><td>2</td><td/><td>awarpsharp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>avs4x26x.exe</td><td>{100A2287-D74F-4D2B-8FEC-A9F04ED31613}</td><td>TOOLS</td><td>2</td><td/><td>avs4x26x.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>avstp.dll</td><td>{441CF80B-7503-40CD-9410-DFE5D7B6FCF6}</td><td>AVSFILTER</td><td>2</td><td/><td>avstp.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>deblock.dll</td><td>{EC9E0C65-CC58-4234-AC02-135A3C7040CD}</td><td>AVSFILTER</td><td>2</td><td/><td>deblock.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>delogo.dll</td><td>{635ABBCF-5EFD-4F7B-93C2-9495C091C988}</td><td>AVSFILTER</td><td>2</td><td/><td>delogo.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>dfttest.dll</td><td>{97EFFE5A-E93E-4F96-ABC7-BEA804828AC0}</td><td>AVSFILTER</td><td>2</td><td/><td>dfttest.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>dither.dll</td><td>{020CEDD5-D748-4F32-AA94-41E4587837F5}</td><td>AVSFILTER</td><td>2</td><td/><td>dither.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>fdkaac.exe</td><td>{3D9A3CF7-E71C-459A-8B07-33FED35D93C4}</td><td>TOOLS</td><td>2</td><td/><td>fdkaac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ffavisynth.dll</td><td>{DA009CEE-37B3-4863-B016-BC2F2B54B42C}</td><td>AVSFILTER</td><td>2</td><td/><td>ffavisynth.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ffmpeg.exe</td><td>{916B8478-E9E3-4CA2-BD0B-FD1E1CA0DA5E}</td><td>TOOLS</td><td>2</td><td/><td>ffmpeg.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ffms2.dll</td><td>{17FF0FC7-4652-4F93-ABED-FD85E5010B49}</td><td>AVSFILTER</td><td>2</td><td/><td>ffms2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>fftw3.dll</td><td>{13B615CA-297D-4905-B5E1-CFC8252CAFB6}</td><td>AVSFILTER</td><td>2</td><td/><td>fftw3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>flac.exe</td><td>{63D3D810-D5FC-4B63-8792-47E1968573C9}</td><td>TOOLS</td><td>2</td><td/><td>flac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>flash3kyuu_deband.dll</td><td>{4C4B76AB-41FE-400D-939A-53BC8F074034}</td><td>AVSFILTER</td><td>2</td><td/><td>flash3kyuu_deband.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>fturn_25.dll</td><td>{BEBA746A-B574-4B47-B668-B4CDC4974E75}</td><td>AVSFILTER</td><td>2</td><td/><td>fturn_25.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>fturn_26.dll</td><td>{93171026-2054-471F-8DDF-BF8053C02923}</td><td>AVSFILTER</td><td>2</td><td/><td>fturn_26.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>gMKVExtractGUI.exe</td><td>{B9AE1948-D0D3-4ACC-8357-AFDBA42FA6B3}</td><td>TOOLS</td><td>2</td><td/><td>gmkvextractgui.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>gMKVToolnix.dll</td><td>{E72EA9D4-334C-49D8-8108-54BBA8074092}</td><td>TOOLS</td><td>2</td><td/><td>gmkvtoolnix.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>gradfun2db.dll</td><td>{13B07FDB-DDFB-4DF1-8C23-4BB9F168F225}</td><td>AVSFILTER</td><td>2</td><td/><td>gradfun2db.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>icudt49.dll</td><td>{F4228962-4A61-4A02-9A20-F3DC6076DE9F}</td><td>QTFILES</td><td>2</td><td/><td>icudt49.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>js.dll</td><td>{C5076B5D-4EED-425F-8124-B77C8B9F6783}</td><td>TOOLS</td><td>2</td><td/><td>js.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>js32.dll</td><td>{7915D8F3-F9E8-4FBC-8B38-71F4EB4E5FB5}</td><td>TOOLS</td><td>2</td><td/><td>js32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libdispatch.dll</td><td>{DEDCBD6D-FEB5-4C60-A8FC-E6256C45FBAC}</td><td>QTFILES</td><td>2</td><td/><td>libdispatch.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libeay32.dll</td><td>{57142DE8-EFE6-46ED-A758-4B509D2ED092}</td><td>TOOLS</td><td>2</td><td/><td>libeay32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libfftw3f_3.dll</td><td>{46CF4696-261C-4D11-863F-F534DE0B697A}</td><td>AVSFILTER</td><td>2</td><td/><td>libfftw3f_3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libgcc_s_sjlj_1.dll</td><td>{FA2B06BD-FFCA-444F-9882-7B6FDBDAACF3}</td><td>TOOLS</td><td>2</td><td/><td>libgcc_s_sjlj_1.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libgpac.dll</td><td>{8019450B-8982-4973-B87C-741C68EAC1E3}</td><td>TOOLS</td><td>2</td><td/><td>libgpac.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libicuin.dll</td><td>{2287AEB0-8F8F-43EB-8BEA-74ABC188CD85}</td><td>QTFILES</td><td>2</td><td/><td>libicuin.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libicuuc.dll</td><td>{FCF5428F-AEF9-48ED-A782-B7B90AB2224C}</td><td>QTFILES</td><td>2</td><td/><td>libicuuc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libsoxconvolver.dll</td><td>{66B73E11-68F1-4F59-BD71-2EFDDA6605AB}</td><td>TOOLS</td><td>2</td><td/><td>libsoxconvolver.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>libsoxr.dll</td><td>{DE730426-15AB-45A4-BAE5-87E4C5999A9D}</td><td>TOOLS</td><td>2</td><td/><td>libsoxr.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>medianblur.dll</td><td>{56D46815-4C74-4F04-A033-FD21E564E95B}</td><td>AVSFILTER</td><td>2</td><td/><td>medianblur.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mfc100.dll</td><td>{4CC2C26D-8123-43B3-95DD-81F7E722BFBD}</td><td>TOOLS</td><td>2</td><td/><td>mfc100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mkvextract.exe</td><td>{9C434206-9F35-4300-9ACF-FE18CAF16025}</td><td>TOOLS</td><td>2</td><td/><td>mkvextract.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mkvinfo.exe</td><td>{DF19CD2E-3418-4BC2-B1BA-B8F61153AF1E}</td><td>TOOLS</td><td>2</td><td/><td>mkvinfo.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mkvmerge.exe</td><td>{0B84FA59-F0E4-4099-B191-47AC3BA7AA1B}</td><td>TOOLS</td><td>2</td><td/><td>mkvmerge.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mmg.exe</td><td>{428DA6A9-5AE2-400E-9CD7-35CFF21B8A0D}</td><td>TOOLS</td><td>2</td><td/><td>mmg.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcp100.dll</td><td>{4BC6282B-DE47-4860-980A-9287648B3D17}</td><td>QTFILES</td><td>2</td><td/><td>msvcp100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcp120.dll</td><td>{606D392B-737D-4A0F-AEC9-C0EB09BD5B82}</td><td>TOOLS</td><td>2</td><td/><td>msvcp120.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcr100.dll</td><td>{4CA51706-D9BC-417A-BA4C-C22E972D3C34}</td><td>AVSFILTER</td><td>2</td><td/><td>msvcr100.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcr100.dll1</td><td>{41C9DC96-32E8-4AE8-903A-007AD9AD706B}</td><td>QTFILES</td><td>2</td><td/><td>msvcr100.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcr100.dll2</td><td>{D751357E-1203-483B-967A-EBCF40EAF14E}</td><td>TOOLS</td><td>2</td><td/><td>msvcr100.dll2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcr120.dll</td><td>{55F4555E-59A3-4608-8DEB-A727A564C8E2}</td><td>AVSFILTER</td><td>2</td><td/><td>msvcr120.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>msvcr120.dll1</td><td>{F7326993-3E00-4CF6-9422-F1E502273C18}</td><td>TOOLS</td><td>2</td><td/><td>msvcr120.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mt_masktools_25.dll</td><td>{6796138E-B83F-49F1-8DBD-8A5C03115A26}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_25.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mt_masktools_25_x64.dll</td><td>{BCB93D55-36F6-4C85-8909-F9621D7B607A}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_25_x64.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mt_masktools_26.dll</td><td>{9C59B181-8D62-40E5-969A-8986161E56BC}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_26.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mt_masktools_26_x64.dll</td><td>{960778FA-91F3-4A57-BF8D-55D806334148}</td><td>AVSFILTER</td><td>2</td><td/><td>mt_masktools_26_x64.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>mvtools2.dll</td><td>{C7D04925-C497-4130-BF30-30287745E7EC}</td><td>AVSFILTER</td><td>2</td><td/><td>mvtools2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>neroAacEnc.exe</td><td>{1FDB1F95-5BB8-4FF3-BA82-D22A9EA19D9F}</td><td>TOOLS</td><td>2</td><td/><td>neroaacenc.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>nnedi3.dll</td><td>{CD69DFB9-5611-49EE-8176-BD68A4A6BDE8}</td><td>AVSFILTER</td><td>2</td><td/><td>nnedi3.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>objc.dll</td><td>{286A5D7F-DB74-43BC-AD5D-0B243229A52E}</td><td>QTFILES</td><td>2</td><td/><td>objc.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>qaac.exe</td><td>{66AE06C9-79FB-463D-B03D-C5B2FD554856}</td><td>TOOLS</td><td>2</td><td/><td>qaac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>refalac.exe</td><td>{0A64C883-6787-40D0-9911-517D2D217956}</td><td>TOOLS</td><td>2</td><td/><td>refalac.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ssleay32.dll</td><td>{22D13D97-9611-4001-90F3-C8D5F474ED25}</td><td>TOOLS</td><td>2</td><td/><td>ssleay32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>tcanny.dll</td><td>{06133C15-3452-44BA-BC6E-FE4150B63729}</td><td>AVSFILTER</td><td>2</td><td/><td>tcanny.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x264_32_10bit.exe</td><td>{570F90D5-73A4-433A-9406-BCB0E467FC40}</td><td>TOOLS</td><td>2</td><td/><td>x264_32_10bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x264_32_8bit.exe</td><td>{C44D29B1-248D-448C-8F5D-7046A93F2565}</td><td>TOOLS</td><td>2</td><td/><td>x264_32_8bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x264_64_10bit.exe</td><td>{160976A7-54E7-48C7-BA05-45F1D735FCFE}</td><td>TOOLS</td><td>2</td><td/><td>x264_64_10bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x264_64_8bit.exe</td><td>{4854A15A-55B0-41C1-A49A-BE7CB6971256}</td><td>TOOLS</td><td>2</td><td/><td>x264_64_8bit.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x265_32.exe</td><td>{B9E92836-6C9C-4377-91BB-4F05BB997515}</td><td>TOOLS</td><td>2</td><td/><td>x265_32.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>x265_64.exe</td><td>{AC6AA90A-1729-4070-938E-C7853CF6EAE9}</td><td>TOOLS</td><td>2</td><td/><td>x265_64.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>xiaowan.exe</td><td>{BDBBD526-C68F-40ED-A4DB-230DE87D5B32}</td><td>INSTALLDIR</td><td>2</td><td/><td>xiaowan.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>xiaowan.resources.dll</td><td>{BBBF7E54-9D2F-40BE-9359-8613A28D221F}</td><td>EN</td><td>2</td><td/><td>xiaowan.resources.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>xiaowan.resources.dll1</td><td>{8ABFA44E-F73F-46E9-833B-2089CD62A83D}</td><td>JA_JP</td><td>2</td><td/><td>xiaowan.resources.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>xiaowan.resources.dll2</td><td>{153CAAC4-AAA7-41BE-B4BE-8279E1488015}</td><td>ZH_HANT</td><td>2</td><td/><td>xiaowan.resources.dll2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>xy_VSFilter.dll</td><td>{A1B2D409-E3D7-421B-AC05-70C876FD4934}</td><td>AVSFILTER</td><td>2</td><td/><td>xy_vsfilter.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1181,11 +1190,284 @@
 	<table name="CreateFolder">
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
+		<row><td>AVSFILTER</td><td>AddGrainC.dll</td></row>
+		<row><td>AVSFILTER</td><td>BT709ToBT601.dll</td></row>
+		<row><td>AVSFILTER</td><td>ColorMatrix.dll</td></row>
+		<row><td>AVSFILTER</td><td>Convolution3DYV12.dll</td></row>
+		<row><td>AVSFILTER</td><td>DGDecodeNV.dll</td></row>
+		<row><td>AVSFILTER</td><td>DctFilter.dll</td></row>
+		<row><td>AVSFILTER</td><td>Decomb.dll</td></row>
+		<row><td>AVSFILTER</td><td>DirectShowSource.dll</td></row>
+		<row><td>AVSFILTER</td><td>EEDI2.dll</td></row>
+		<row><td>AVSFILTER</td><td>EEDI2_imp.dll</td></row>
+		<row><td>AVSFILTER</td><td>FFT3DFilter.dll</td></row>
+		<row><td>AVSFILTER</td><td>FFT3dGPU.dll</td></row>
+		<row><td>AVSFILTER</td><td>FluxSmooth.dll</td></row>
+		<row><td>AVSFILTER</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>AVSFILTER</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>AVSFILTER</td><td>LSMASHSource.dll</td></row>
+		<row><td>AVSFILTER</td><td>LeakKernelDeint.dll</td></row>
+		<row><td>AVSFILTER</td><td>MSharpen.dll</td></row>
+		<row><td>AVSFILTER</td><td>MVCsource.dll</td></row>
+		<row><td>AVSFILTER</td><td>PNLM.dll</td></row>
+		<row><td>AVSFILTER</td><td>RSharpen.dll</td></row>
+		<row><td>AVSFILTER</td><td>RSharpenS.dll</td></row>
+		<row><td>AVSFILTER</td><td>RSharpenSSE2.dll</td></row>
+		<row><td>AVSFILTER</td><td>RSharpenSSE3.dll</td></row>
+		<row><td>AVSFILTER</td><td>RemoveGrain.dll</td></row>
+		<row><td>AVSFILTER</td><td>RemoveGrainS.dll</td></row>
+		<row><td>AVSFILTER</td><td>RemoveGrainSSE2.dll</td></row>
+		<row><td>AVSFILTER</td><td>RemoveGrainSSE3.dll</td></row>
+		<row><td>AVSFILTER</td><td>Repair.dll</td></row>
+		<row><td>AVSFILTER</td><td>RepairS.dll</td></row>
+		<row><td>AVSFILTER</td><td>RepairSSE2.dll</td></row>
+		<row><td>AVSFILTER</td><td>RepairSSE3.dll</td></row>
+		<row><td>AVSFILTER</td><td>SSE2Tools.dll</td></row>
+		<row><td>AVSFILTER</td><td>SSE3Tools.dll</td></row>
+		<row><td>AVSFILTER</td><td>SSETools.dll</td></row>
+		<row><td>AVSFILTER</td><td>SSEToolsS.dll</td></row>
+		<row><td>AVSFILTER</td><td>SangNom.dll</td></row>
+		<row><td>AVSFILTER</td><td>SmoothAdjust.dll</td></row>
+		<row><td>AVSFILTER</td><td>TCPDeliver.dll</td></row>
+		<row><td>AVSFILTER</td><td>TDeint.dll</td></row>
+		<row><td>AVSFILTER</td><td>TEdgeMask.dll</td></row>
+		<row><td>AVSFILTER</td><td>TIVTC.dll</td></row>
+		<row><td>AVSFILTER</td><td>TTempSmooth.dll</td></row>
+		<row><td>AVSFILTER</td><td>UnDot.dll</td></row>
+		<row><td>AVSFILTER</td><td>VSFilter.dll</td></row>
+		<row><td>AVSFILTER</td><td>VSFilterMod.dll</td></row>
+		<row><td>AVSFILTER</td><td>VapourSource.dll</td></row>
+		<row><td>AVSFILTER</td><td>aWarpSharp.dll</td></row>
+		<row><td>AVSFILTER</td><td>avstp.dll</td></row>
+		<row><td>AVSFILTER</td><td>deblock.dll</td></row>
+		<row><td>AVSFILTER</td><td>delogo.dll</td></row>
+		<row><td>AVSFILTER</td><td>dfttest.dll</td></row>
+		<row><td>AVSFILTER</td><td>dither.dll</td></row>
+		<row><td>AVSFILTER</td><td>ffavisynth.dll</td></row>
+		<row><td>AVSFILTER</td><td>ffms2.dll</td></row>
+		<row><td>AVSFILTER</td><td>fftw3.dll</td></row>
+		<row><td>AVSFILTER</td><td>flash3kyuu_deband.dll</td></row>
+		<row><td>AVSFILTER</td><td>fturn_25.dll</td></row>
+		<row><td>AVSFILTER</td><td>fturn_26.dll</td></row>
+		<row><td>AVSFILTER</td><td>gradfun2db.dll</td></row>
+		<row><td>AVSFILTER</td><td>libfftw3f_3.dll</td></row>
+		<row><td>AVSFILTER</td><td>medianblur.dll</td></row>
+		<row><td>AVSFILTER</td><td>msvcr100.dll</td></row>
+		<row><td>AVSFILTER</td><td>msvcr120.dll</td></row>
+		<row><td>AVSFILTER</td><td>mt_masktools_25.dll</td></row>
+		<row><td>AVSFILTER</td><td>mt_masktools_25_x64.dll</td></row>
+		<row><td>AVSFILTER</td><td>mt_masktools_26.dll</td></row>
+		<row><td>AVSFILTER</td><td>mt_masktools_26_x64.dll</td></row>
+		<row><td>AVSFILTER</td><td>mvtools2.dll</td></row>
+		<row><td>AVSFILTER</td><td>nnedi3.dll</td></row>
+		<row><td>AVSFILTER</td><td>tcanny.dll</td></row>
+		<row><td>AVSFILTER</td><td>xy_VSFilter.dll</td></row>
 		<row><td>EN</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>EN</td><td>xiaowan.resources.dll</td></row>
+		<row><td>INSTALLDIR</td><td>ASL.dll</td></row>
+		<row><td>INSTALLDIR</td><td>AddGrainC.dll</td></row>
+		<row><td>INSTALLDIR</td><td>AxInterop.WMPLib.dll</td></row>
+		<row><td>INSTALLDIR</td><td>BT709ToBT601.dll</td></row>
+		<row><td>INSTALLDIR</td><td>ColorMatrix.dll</td></row>
+		<row><td>INSTALLDIR</td><td>ControlExs.dll</td></row>
+		<row><td>INSTALLDIR</td><td>Convolution3DYV12.dll</td></row>
+		<row><td>INSTALLDIR</td><td>CoreAudioToolbox.dll</td></row>
+		<row><td>INSTALLDIR</td><td>CoreFoundation.dll</td></row>
+		<row><td>INSTALLDIR</td><td>DGDecodeNV.dll</td></row>
+		<row><td>INSTALLDIR</td><td>DctFilter.dll</td></row>
+		<row><td>INSTALLDIR</td><td>Decomb.dll</td></row>
+		<row><td>INSTALLDIR</td><td>DirectShowSource.dll</td></row>
+		<row><td>INSTALLDIR</td><td>EEDI2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>EEDI2_imp.dll</td></row>
+		<row><td>INSTALLDIR</td><td>FFT3DFilter.dll</td></row>
+		<row><td>INSTALLDIR</td><td>FFT3dGPU.dll</td></row>
+		<row><td>INSTALLDIR</td><td>FLVExtractCL.exe</td></row>
+		<row><td>INSTALLDIR</td><td>FLVLib.dll</td></row>
+		<row><td>INSTALLDIR</td><td>FluxSmooth.dll</td></row>
+		<row><td>INSTALLDIR</td><td>FlvBind.exe</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>INSTALLDIR</td><td>IS_ININSTALL_SHORTCUT</td></row>
+		<row><td>INSTALLDIR</td><td>Interop.WMPLib.dll</td></row>
+		<row><td>INSTALLDIR</td><td>LSMASHSource.dll</td></row>
+		<row><td>INSTALLDIR</td><td>LeakKernelDeint.dll</td></row>
+		<row><td>INSTALLDIR</td><td>MP4Box.exe</td></row>
+		<row><td>INSTALLDIR</td><td>MSharpen.dll</td></row>
+		<row><td>INSTALLDIR</td><td>MVCsource.dll</td></row>
+		<row><td>INSTALLDIR</td><td>MediaInfo.dll</td></row>
+		<row><td>INSTALLDIR</td><td>MediaInfo.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>OpenCL.dll</td></row>
+		<row><td>INSTALLDIR</td><td>PNLM.dll</td></row>
+		<row><td>INSTALLDIR</td><td>QTCF.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RSharpen.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RSharpenS.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RSharpenSSE2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RSharpenSSE3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RemoveGrain.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RemoveGrainS.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RemoveGrainSSE2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RemoveGrainSSE3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>Repair.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RepairS.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RepairSSE2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>RepairSSE3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SSE2Tools.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SSE3Tools.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SSETools.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SSEToolsS.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SangNom.dll</td></row>
+		<row><td>INSTALLDIR</td><td>SmoothAdjust.dll</td></row>
+		<row><td>INSTALLDIR</td><td>TCPDeliver.dll</td></row>
+		<row><td>INSTALLDIR</td><td>TDeint.dll</td></row>
+		<row><td>INSTALLDIR</td><td>TEdgeMask.dll</td></row>
+		<row><td>INSTALLDIR</td><td>TIVTC.dll</td></row>
+		<row><td>INSTALLDIR</td><td>TTempSmooth.dll</td></row>
+		<row><td>INSTALLDIR</td><td>UnDot.dll</td></row>
+		<row><td>INSTALLDIR</td><td>VSFilter.dll</td></row>
+		<row><td>INSTALLDIR</td><td>VSFilter.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>VSFilter64.dll</td></row>
+		<row><td>INSTALLDIR</td><td>VSFilterMod.dll</td></row>
+		<row><td>INSTALLDIR</td><td>VapourSource.dll</td></row>
+		<row><td>INSTALLDIR</td><td>aWarpSharp.dll</td></row>
+		<row><td>INSTALLDIR</td><td>avs4x26x.exe</td></row>
+		<row><td>INSTALLDIR</td><td>avstp.dll</td></row>
+		<row><td>INSTALLDIR</td><td>deblock.dll</td></row>
+		<row><td>INSTALLDIR</td><td>delogo.dll</td></row>
+		<row><td>INSTALLDIR</td><td>dfttest.dll</td></row>
+		<row><td>INSTALLDIR</td><td>dither.dll</td></row>
+		<row><td>INSTALLDIR</td><td>fdkaac.exe</td></row>
+		<row><td>INSTALLDIR</td><td>ffavisynth.dll</td></row>
+		<row><td>INSTALLDIR</td><td>ffmpeg.exe</td></row>
+		<row><td>INSTALLDIR</td><td>ffms2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>fftw3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>flac.exe</td></row>
+		<row><td>INSTALLDIR</td><td>flash3kyuu_deband.dll</td></row>
+		<row><td>INSTALLDIR</td><td>fturn_25.dll</td></row>
+		<row><td>INSTALLDIR</td><td>fturn_26.dll</td></row>
+		<row><td>INSTALLDIR</td><td>gMKVExtractGUI.exe</td></row>
+		<row><td>INSTALLDIR</td><td>gMKVToolnix.dll</td></row>
+		<row><td>INSTALLDIR</td><td>gradfun2db.dll</td></row>
+		<row><td>INSTALLDIR</td><td>icudt49.dll</td></row>
+		<row><td>INSTALLDIR</td><td>js.dll</td></row>
+		<row><td>INSTALLDIR</td><td>js32.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libdispatch.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libeay32.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libfftw3f_3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libgcc_s_sjlj_1.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libgpac.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libicuin.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libicuuc.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libsoxconvolver.dll</td></row>
+		<row><td>INSTALLDIR</td><td>libsoxr.dll</td></row>
+		<row><td>INSTALLDIR</td><td>medianblur.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mfc100.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mkvextract.exe</td></row>
+		<row><td>INSTALLDIR</td><td>mkvinfo.exe</td></row>
+		<row><td>INSTALLDIR</td><td>mkvmerge.exe</td></row>
+		<row><td>INSTALLDIR</td><td>mmg.exe</td></row>
+		<row><td>INSTALLDIR</td><td>msvcp100.dll</td></row>
+		<row><td>INSTALLDIR</td><td>msvcp120.dll</td></row>
+		<row><td>INSTALLDIR</td><td>msvcr100.dll</td></row>
+		<row><td>INSTALLDIR</td><td>msvcr100.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>msvcr100.dll2</td></row>
+		<row><td>INSTALLDIR</td><td>msvcr120.dll</td></row>
+		<row><td>INSTALLDIR</td><td>msvcr120.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>mt_masktools_25.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mt_masktools_25_x64.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mt_masktools_26.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mt_masktools_26_x64.dll</td></row>
+		<row><td>INSTALLDIR</td><td>mvtools2.dll</td></row>
+		<row><td>INSTALLDIR</td><td>neroAacEnc.exe</td></row>
+		<row><td>INSTALLDIR</td><td>nnedi3.dll</td></row>
+		<row><td>INSTALLDIR</td><td>objc.dll</td></row>
+		<row><td>INSTALLDIR</td><td>qaac.exe</td></row>
+		<row><td>INSTALLDIR</td><td>refalac.exe</td></row>
+		<row><td>INSTALLDIR</td><td>ssleay32.dll</td></row>
+		<row><td>INSTALLDIR</td><td>tcanny.dll</td></row>
+		<row><td>INSTALLDIR</td><td>x264_32_10bit.exe</td></row>
+		<row><td>INSTALLDIR</td><td>x264_32_8bit.exe</td></row>
+		<row><td>INSTALLDIR</td><td>x264_64_10bit.exe</td></row>
+		<row><td>INSTALLDIR</td><td>x264_64_8bit.exe</td></row>
+		<row><td>INSTALLDIR</td><td>x265_32.exe</td></row>
+		<row><td>INSTALLDIR</td><td>x265_64.exe</td></row>
+		<row><td>INSTALLDIR</td><td>xiaowan.exe</td></row>
+		<row><td>INSTALLDIR</td><td>xiaowan.resources.dll</td></row>
+		<row><td>INSTALLDIR</td><td>xiaowan.resources.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>xiaowan.resources.dll2</td></row>
+		<row><td>INSTALLDIR</td><td>xy_VSFilter.dll</td></row>
 		<row><td>JA_JP</td><td>ISX_DEFAULTCOMPONENT2</td></row>
-		<row><td>QTFILES</td><td>ISX_DEFAULTCOMPONENT6</td></row>
-		<row><td>X64</td><td>ISX_DEFAULTCOMPONENT7</td></row>
-		<row><td>ZH_HANT</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>JA_JP</td><td>xiaowan.resources.dll1</td></row>
+		<row><td>LOGS</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>PRESET</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>PRESET</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>QTFILES</td><td>ASL.dll</td></row>
+		<row><td>QTFILES</td><td>CoreAudioToolbox.dll</td></row>
+		<row><td>QTFILES</td><td>CoreFoundation.dll</td></row>
+		<row><td>QTFILES</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>QTFILES</td><td>icudt49.dll</td></row>
+		<row><td>QTFILES</td><td>libdispatch.dll</td></row>
+		<row><td>QTFILES</td><td>libicuin.dll</td></row>
+		<row><td>QTFILES</td><td>libicuuc.dll</td></row>
+		<row><td>QTFILES</td><td>msvcp100.dll</td></row>
+		<row><td>QTFILES</td><td>msvcr100.dll1</td></row>
+		<row><td>QTFILES</td><td>objc.dll</td></row>
+		<row><td>TOOLS</td><td>FLVExtractCL.exe</td></row>
+		<row><td>TOOLS</td><td>FLVLib.dll</td></row>
+		<row><td>TOOLS</td><td>FlvBind.exe</td></row>
+		<row><td>TOOLS</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>TOOLS</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>TOOLS</td><td>MP4Box.exe</td></row>
+		<row><td>TOOLS</td><td>MediaInfo.dll1</td></row>
+		<row><td>TOOLS</td><td>OpenCL.dll</td></row>
+		<row><td>TOOLS</td><td>QTCF.dll</td></row>
+		<row><td>TOOLS</td><td>VSFilter.dll1</td></row>
+		<row><td>TOOLS</td><td>VSFilter64.dll</td></row>
+		<row><td>TOOLS</td><td>avs4x26x.exe</td></row>
+		<row><td>TOOLS</td><td>fdkaac.exe</td></row>
+		<row><td>TOOLS</td><td>ffmpeg.exe</td></row>
+		<row><td>TOOLS</td><td>flac.exe</td></row>
+		<row><td>TOOLS</td><td>gMKVExtractGUI.exe</td></row>
+		<row><td>TOOLS</td><td>gMKVToolnix.dll</td></row>
+		<row><td>TOOLS</td><td>js.dll</td></row>
+		<row><td>TOOLS</td><td>js32.dll</td></row>
+		<row><td>TOOLS</td><td>libeay32.dll</td></row>
+		<row><td>TOOLS</td><td>libgcc_s_sjlj_1.dll</td></row>
+		<row><td>TOOLS</td><td>libgpac.dll</td></row>
+		<row><td>TOOLS</td><td>libsoxconvolver.dll</td></row>
+		<row><td>TOOLS</td><td>libsoxr.dll</td></row>
+		<row><td>TOOLS</td><td>mfc100.dll</td></row>
+		<row><td>TOOLS</td><td>mkvextract.exe</td></row>
+		<row><td>TOOLS</td><td>mkvinfo.exe</td></row>
+		<row><td>TOOLS</td><td>mkvmerge.exe</td></row>
+		<row><td>TOOLS</td><td>mmg.exe</td></row>
+		<row><td>TOOLS</td><td>msvcp120.dll</td></row>
+		<row><td>TOOLS</td><td>msvcr100.dll2</td></row>
+		<row><td>TOOLS</td><td>msvcr120.dll1</td></row>
+		<row><td>TOOLS</td><td>neroAacEnc.exe</td></row>
+		<row><td>TOOLS</td><td>qaac.exe</td></row>
+		<row><td>TOOLS</td><td>refalac.exe</td></row>
+		<row><td>TOOLS</td><td>ssleay32.dll</td></row>
+		<row><td>TOOLS</td><td>x264_32_10bit.exe</td></row>
+		<row><td>TOOLS</td><td>x264_32_8bit.exe</td></row>
+		<row><td>TOOLS</td><td>x264_64_10bit.exe</td></row>
+		<row><td>TOOLS</td><td>x264_64_8bit.exe</td></row>
+		<row><td>TOOLS</td><td>x265_32.exe</td></row>
+		<row><td>TOOLS</td><td>x265_64.exe</td></row>
+		<row><td>X64</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>X64</td><td>MediaInfo.dll</td></row>
+		<row><td>ZH_HANT</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>ZH_HANT</td><td>xiaowan.resources.dll2</td></row>
 	</table>
 
 	<table name="CustomAction">
@@ -1285,9 +1567,24 @@
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
 		<row><td>JA_JP</td><td>INSTALLDIR</td><td>ja-JP</td><td/><td>0</td><td/></row>
+		<row><td>LOGS</td><td>INSTALLDIR</td><td>logs</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
 		<row><td>MARUKO_TOOLBOX_PROJECT</td><td>ProgramFilesFolder</td><td>MARUKO~1|Maruko Toolbox Project</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_1</td><td>TARGETDIR</td><td>NEW_FOLDER_1</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_11</td><td>TARGETDIR</td><td>NEW_FOLDER_11</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_110</td><td>TARGETDIR</td><td>NEW_FOLDER_110</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_111</td><td>TARGETDIR</td><td>NEW_FOLDER_111</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_112</td><td>TARGETDIR</td><td>NEW_FOLDER_112</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_113</td><td>TARGETDIR</td><td>NEW_FOLDER_113</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_12</td><td>TARGETDIR</td><td>NEW_FOLDER_12</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_13</td><td>TARGETDIR</td><td>NEW_FOLDER_13</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_14</td><td>TARGETDIR</td><td>NEW_FOLDER_14</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_15</td><td>TARGETDIR</td><td>NEW_FOLDER_15</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_16</td><td>TARGETDIR</td><td>NEW_FOLDER_16</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_17</td><td>TARGETDIR</td><td>NEW_FOLDER_17</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_18</td><td>TARGETDIR</td><td>NEW_FOLDER_18</td><td/><td>0</td><td/></row>
+		<row><td>NEW_FOLDER_19</td><td>TARGETDIR</td><td>NEW_FOLDER_19</td><td/><td>0</td><td/></row>
 		<row><td>NetHoodFolder</td><td>TARGETDIR</td><td>.:NetHood</td><td/><td>0</td><td/></row>
 		<row><td>PRESET</td><td>TOOLS</td><td>preset</td><td/><td>0</td><td/></row>
 		<row><td>PersonalFolder</td><td>TARGETDIR</td><td>.:Personal</td><td/><td>0</td><td/></row>
@@ -1314,7 +1611,7 @@
 		<row><td>X64</td><td>TOOLS</td><td>x64</td><td/><td>0</td><td/></row>
 		<row><td>XIAOWAN</td><td>ProgramFilesFolder</td><td>xiaowan</td><td/><td>0</td><td/></row>
 		<row><td>ZH_HANT</td><td>INSTALLDIR</td><td>zh-HanT</td><td/><td>0</td><td/></row>
-		<row><td>product_name</td><td>ProgramMenuFolder</td><td>小丸工~1|小丸工具箱</td><td/><td>1</td><td/></row>
+		<row><td>directory2</td><td>ProgramMenuFolder</td><td>小丸工~1|小丸工具箱</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -2008,7 +2305,6 @@
 		<col key="yes" def="s72">Component_</col>
 		<row><td>AlwaysInstall</td><td>ASL.dll</td></row>
 		<row><td>AlwaysInstall</td><td>AddGrainC.dll</td></row>
-		<row><td>AlwaysInstall</td><td>AviSynth.dll</td></row>
 		<row><td>AlwaysInstall</td><td>AxInterop.WMPLib.dll</td></row>
 		<row><td>AlwaysInstall</td><td>BT709ToBT601.dll</td></row>
 		<row><td>AlwaysInstall</td><td>ColorMatrix.dll</td></row>
@@ -2019,7 +2315,6 @@
 		<row><td>AlwaysInstall</td><td>DGDecodeNV.dll</td></row>
 		<row><td>AlwaysInstall</td><td>DctFilter.dll</td></row>
 		<row><td>AlwaysInstall</td><td>Decomb.dll</td></row>
-		<row><td>AlwaysInstall</td><td>DevIL.dll</td></row>
 		<row><td>AlwaysInstall</td><td>DirectShowSource.dll</td></row>
 		<row><td>AlwaysInstall</td><td>EEDI2.dll</td></row>
 		<row><td>AlwaysInstall</td><td>EEDI2_imp.dll</td></row>
@@ -2031,6 +2326,9 @@
 		<row><td>AlwaysInstall</td><td>FlvBind.exe</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT12</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT3</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
@@ -2038,6 +2336,8 @@
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT7</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>AlwaysInstall</td><td>IS_ININSTALL_SHORTCUT</td></row>
 		<row><td>AlwaysInstall</td><td>Interop.WMPLib.dll</td></row>
 		<row><td>AlwaysInstall</td><td>LSMASHSource.dll</td></row>
 		<row><td>AlwaysInstall</td><td>LeakKernelDeint.dll</td></row>
@@ -2046,8 +2346,6 @@
 		<row><td>AlwaysInstall</td><td>MVCsource.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MediaInfo.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MediaInfo.dll1</td></row>
-		<row><td>AlwaysInstall</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td></row>
-		<row><td>AlwaysInstall</td><td>Microsoft.WindowsAPICodePack.dll</td></row>
 		<row><td>AlwaysInstall</td><td>OpenCL.dll</td></row>
 		<row><td>AlwaysInstall</td><td>PNLM.dll</td></row>
 		<row><td>AlwaysInstall</td><td>QTCF.dll</td></row>
@@ -2081,6 +2379,7 @@
 		<row><td>AlwaysInstall</td><td>VSFilterMod.dll</td></row>
 		<row><td>AlwaysInstall</td><td>VapourSource.dll</td></row>
 		<row><td>AlwaysInstall</td><td>aWarpSharp.dll</td></row>
+		<row><td>AlwaysInstall</td><td>avs4x26x.exe</td></row>
 		<row><td>AlwaysInstall</td><td>avstp.dll</td></row>
 		<row><td>AlwaysInstall</td><td>deblock.dll</td></row>
 		<row><td>AlwaysInstall</td><td>delogo.dll</td></row>
@@ -2095,6 +2394,8 @@
 		<row><td>AlwaysInstall</td><td>flash3kyuu_deband.dll</td></row>
 		<row><td>AlwaysInstall</td><td>fturn_25.dll</td></row>
 		<row><td>AlwaysInstall</td><td>fturn_26.dll</td></row>
+		<row><td>AlwaysInstall</td><td>gMKVExtractGUI.exe</td></row>
+		<row><td>AlwaysInstall</td><td>gMKVToolnix.dll</td></row>
 		<row><td>AlwaysInstall</td><td>gradfun2db.dll</td></row>
 		<row><td>AlwaysInstall</td><td>icudt49.dll</td></row>
 		<row><td>AlwaysInstall</td><td>js.dll</td></row>
@@ -2102,6 +2403,7 @@
 		<row><td>AlwaysInstall</td><td>libdispatch.dll</td></row>
 		<row><td>AlwaysInstall</td><td>libeay32.dll</td></row>
 		<row><td>AlwaysInstall</td><td>libfftw3f_3.dll</td></row>
+		<row><td>AlwaysInstall</td><td>libgcc_s_sjlj_1.dll</td></row>
 		<row><td>AlwaysInstall</td><td>libgpac.dll</td></row>
 		<row><td>AlwaysInstall</td><td>libicuin.dll</td></row>
 		<row><td>AlwaysInstall</td><td>libicuuc.dll</td></row>
@@ -2110,7 +2412,9 @@
 		<row><td>AlwaysInstall</td><td>medianblur.dll</td></row>
 		<row><td>AlwaysInstall</td><td>mfc100.dll</td></row>
 		<row><td>AlwaysInstall</td><td>mkvextract.exe</td></row>
+		<row><td>AlwaysInstall</td><td>mkvinfo.exe</td></row>
 		<row><td>AlwaysInstall</td><td>mkvmerge.exe</td></row>
+		<row><td>AlwaysInstall</td><td>mmg.exe</td></row>
 		<row><td>AlwaysInstall</td><td>msvcp100.dll</td></row>
 		<row><td>AlwaysInstall</td><td>msvcp120.dll</td></row>
 		<row><td>AlwaysInstall</td><td>msvcr100.dll</td></row>
@@ -2134,6 +2438,8 @@
 		<row><td>AlwaysInstall</td><td>x264_32_8bit.exe</td></row>
 		<row><td>AlwaysInstall</td><td>x264_64_10bit.exe</td></row>
 		<row><td>AlwaysInstall</td><td>x264_64_8bit.exe</td></row>
+		<row><td>AlwaysInstall</td><td>x265_32.exe</td></row>
+		<row><td>AlwaysInstall</td><td>x265_64.exe</td></row>
 		<row><td>AlwaysInstall</td><td>xiaowan.exe</td></row>
 		<row><td>AlwaysInstall</td><td>xiaowan.resources.dll</td></row>
 		<row><td>AlwaysInstall</td><td>xiaowan.resources.dll1</td></row>
@@ -2154,54 +2460,52 @@
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
 		<row><td>File.mht</td><td>ISX_DEFAULTCOMPONENT</td><td>关于视~1.MHT|关于视频格式的一些知识普及.mht</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\关于视频格式的一些知识普及.mht</td><td>1</td><td/></row>
-		<row><td>File.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>WIN8和~1.TXT|Win8和XP用户请先看我.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\Win8和XP用户请先看我.txt</td><td>1</td><td/></row>
-		<row><td>File.txt1</td><td>ISX_DEFAULTCOMPONENT</td><td>不能运~1.TXT|不能运行请看我.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\不能运行请看我.txt</td><td>1</td><td/></row>
-		<row><td>File.txt2</td><td>ISX_DEFAULTCOMPONENT4</td><td>说明.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\说明.txt</td><td>1</td><td/></row>
-		<row><td>File.txt3</td><td>ISX_DEFAULTCOMPONENT5</td><td>三次元.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\三次元.txt</td><td>1</td><td/></row>
-		<row><td>File.txt4</td><td>ISX_DEFAULTCOMPONENT5</td><td>DVDRIP~1.TXT|DVDRIP不切边,16：9.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP不切边,16：9.txt</td><td>1</td><td/></row>
-		<row><td>File.txt5</td><td>ISX_DEFAULTCOMPONENT5</td><td>DVDRIP~1.TXT|DVDRIP不切边,sar40：33,20：11.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP不切边,sar40：33,20：11.txt</td><td>1</td><td/></row>
-		<row><td>File.txt6</td><td>ISX_DEFAULTCOMPONENT5</td><td>DVDRIP~1.TXT|DVDRIP切边,sar40：33..txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP切边,sar40：33..txt</td><td>1</td><td/></row>
-		<row><td>addgrain.avs</td><td>ISX_DEFAULTCOMPONENT4</td><td>addgrain.avs</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\addgrain.avs</td><td>1</td><td/></row>
+		<row><td>File.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>不能运~1.TXT|不能运行请看我.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\不能运行请看我.txt</td><td>1</td><td/></row>
+		<row><td>File.txt1</td><td>ISX_DEFAULTCOMPONENT7</td><td>说明.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\说明.txt</td><td>1</td><td/></row>
+		<row><td>File.txt2</td><td>ISX_DEFAULTCOMPONENT9</td><td>DVDRIP~1.TXT|DVDRIP不切边,16：9.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP不切边,16：9.txt</td><td>1</td><td/></row>
+		<row><td>File.txt3</td><td>ISX_DEFAULTCOMPONENT9</td><td>DVDRIP~1.TXT|DVDRIP不切边,sar40：33,20：11.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP不切边,sar40：33,20：11.txt</td><td>1</td><td/></row>
+		<row><td>File.txt4</td><td>ISX_DEFAULTCOMPONENT9</td><td>DVDRIP~1.TXT|DVDRIP切边,sar40：33..txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\DVDRIP切边,sar40：33..txt</td><td>1</td><td/></row>
+		<row><td>File.txt5</td><td>ISX_DEFAULTCOMPONENT9</td><td>三次元.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\三次元.txt</td><td>1</td><td/></row>
+		<row><td>addgrain.avs</td><td>ISX_DEFAULTCOMPONENT7</td><td>addgrain.avs</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\addgrain.avs</td><td>1</td><td/></row>
 		<row><td>addgrainc.dll</td><td>AddGrainC.dll</td><td>ADDGRA~1.DLL|AddGrainC.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\AddGrainC.dll</td><td>1</td><td/></row>
 		<row><td>asl.dll</td><td>ASL.dll</td><td>ASL.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\ASL.dll</td><td>1</td><td/></row>
-		<row><td>avisynth.css</td><td>ISX_DEFAULTCOMPONENT4</td><td>avisynth.css</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\avisynth.css</td><td>1</td><td/></row>
-		<row><td>avisynth.dll</td><td>AviSynth.dll</td><td>AviSynth.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\AviSynth.dll</td><td>1</td><td/></row>
+		<row><td>avisynth.css</td><td>ISX_DEFAULTCOMPONENT7</td><td>avisynth.css</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\avisynth.css</td><td>1</td><td/></row>
+		<row><td>avs4x26x.exe</td><td>avs4x26x.exe</td><td>avs4x26x.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avs4x26x.exe</td><td>1</td><td/></row>
 		<row><td>avstp.dll</td><td>avstp.dll</td><td>avstp.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\avstp.dll</td><td>1</td><td/></row>
 		<row><td>awarpsharp.dll</td><td>aWarpSharp.dll</td><td>AWARPS~1.DLL|aWarpSharp.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\aWarpSharp.dll</td><td>1</td><td/></row>
 		<row><td>axinterop.wmplib.dll</td><td>AxInterop.WMPLib.dll</td><td>AXINTE~1.DLL|AxInterop.WMPLib.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\AxInterop.WMPLib.dll</td><td>1</td><td/></row>
 		<row><td>bt709tobt601.dll</td><td>BT709ToBT601.dll</td><td>BT709T~1.DLL|BT709ToBT601.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\BT709ToBT601.dll</td><td>1</td><td/></row>
 		<row><td>colormatrix.dll</td><td>ColorMatrix.dll</td><td>COLORM~1.DLL|ColorMatrix.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ColorMatrix.dll</td><td>1</td><td/></row>
-		<row><td>colors_rgb.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>COLORS~1.AVS|colors_rgb.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\colors_rgb.avsi</td><td>1</td><td/></row>
-		<row><td>contrasharpen_mod.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>CONTRA~1.AVS|ContraSharpen_mod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ContraSharpen_mod.avsi</td><td>1</td><td/></row>
-		<row><td>contrasharpen_mod_16.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>CONTRA~1.AVS|ContraSharpen_mod_16.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ContraSharpen_mod_16.avsi</td><td>1</td><td/></row>
+		<row><td>colors_rgb.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>COLORS~1.AVS|colors_rgb.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\colors_rgb.avsi</td><td>1</td><td/></row>
+		<row><td>contrasharpen_mod.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>CONTRA~1.AVS|ContraSharpen_mod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ContraSharpen_mod.avsi</td><td>1</td><td/></row>
+		<row><td>contrasharpen_mod_16.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>CONTRA~1.AVS|ContraSharpen_mod_16.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ContraSharpen_mod_16.avsi</td><td>1</td><td/></row>
 		<row><td>controlexs.dll</td><td>ControlExs.dll</td><td>CONTRO~1.DLL|ControlExs.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\ControlExs.dll</td><td>1</td><td/></row>
 		<row><td>convolution3dyv12.dll</td><td>Convolution3DYV12.dll</td><td>CONVOL~1.DLL|Convolution3DYV12.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\Convolution3DYV12.dll</td><td>1</td><td/></row>
 		<row><td>coreaudiotoolbox.dll</td><td>CoreAudioToolbox.dll</td><td>COREAU~1.DLL|CoreAudioToolbox.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\CoreAudioToolbox.dll</td><td>1</td><td/></row>
 		<row><td>corefoundation.dll</td><td>CoreFoundation.dll</td><td>COREFO~1.DLL|CoreFoundation.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\CoreFoundation.dll</td><td>1</td><td/></row>
 		<row><td>dctfilter.dll</td><td>DctFilter.dll</td><td>DCTFIL~1.DLL|DctFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\DctFilter.dll</td><td>1</td><td/></row>
 		<row><td>deblock.dll</td><td>deblock.dll</td><td>deblock.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\deblock.dll</td><td>1</td><td/></row>
-		<row><td>deblock_qedmod.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>DEBLOC~1.AVS|Deblock_QEDmod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\Deblock_QEDmod.avsi</td><td>1</td><td/></row>
+		<row><td>deblock_qedmod.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>DEBLOC~1.AVS|Deblock_QEDmod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\Deblock_QEDmod.avsi</td><td>1</td><td/></row>
 		<row><td>decomb.dll</td><td>Decomb.dll</td><td>Decomb.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\Decomb.dll</td><td>1</td><td/></row>
-		<row><td>default.txt</td><td>ISX_DEFAULTCOMPONENT5</td><td>default.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\default.txt</td><td>1</td><td/></row>
+		<row><td>default.txt</td><td>ISX_DEFAULTCOMPONENT9</td><td>default.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\default.txt</td><td>1</td><td/></row>
 		<row><td>delogo.dll</td><td>delogo.dll</td><td>delogo.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\delogo.dll</td><td>1</td><td/></row>
-		<row><td>devil.dll</td><td>DevIL.dll</td><td>DevIL.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\DevIL.dll</td><td>1</td><td/></row>
 		<row><td>dfttest.dll</td><td>dfttest.dll</td><td>dfttest.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\dfttest.dll</td><td>1</td><td/></row>
 		<row><td>dgdecodenv.dll</td><td>DGDecodeNV.dll</td><td>DGDECO~1.DLL|DGDecodeNV.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\DGDecodeNV.dll</td><td>1</td><td/></row>
 		<row><td>directshowsource.dll</td><td>DirectShowSource.dll</td><td>DIRECT~1.DLL|DirectShowSource.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\DirectShowSource.dll</td><td>1</td><td/></row>
-		<row><td>dither.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>DITHER~1.AVS|dither.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\dither.avsi</td><td>1</td><td/></row>
+		<row><td>dither.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>DITHER~1.AVS|dither.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\dither.avsi</td><td>1</td><td/></row>
 		<row><td>dither.dll</td><td>dither.dll</td><td>dither.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\dither.dll</td><td>1</td><td/></row>
 		<row><td>eedi2.dll</td><td>EEDI2.dll</td><td>EEDI2.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\EEDI2.dll</td><td>1</td><td/></row>
 		<row><td>eedi2_imp.dll</td><td>EEDI2_imp.dll</td><td>EEDI2_~1.DLL|EEDI2_imp.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\EEDI2_imp.dll</td><td>1</td><td/></row>
-		<row><td>f3kgrain_v0.4.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>F3KGRA~1.AVS|f3kgrain_v0.4.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\f3kgrain_v0.4.avsi</td><td>1</td><td/></row>
+		<row><td>f3kgrain_v0.4.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>F3KGRA~1.AVS|f3kgrain_v0.4.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\f3kgrain_v0.4.avsi</td><td>1</td><td/></row>
 		<row><td>fdkaac.exe</td><td>fdkaac.exe</td><td>fdkaac.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\fdkaac.exe</td><td>1</td><td/></row>
-		<row><td>ffavisynth.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>FFAVIS~1.AVS|ffavisynth.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ffavisynth.avsi</td><td>1</td><td/></row>
+		<row><td>ffavisynth.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>FFAVIS~1.AVS|ffavisynth.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ffavisynth.avsi</td><td>1</td><td/></row>
 		<row><td>ffavisynth.dll</td><td>ffavisynth.dll</td><td>FFAVIS~1.DLL|ffavisynth.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ffavisynth.dll</td><td>1</td><td/></row>
 		<row><td>ffmpeg.exe</td><td>ffmpeg.exe</td><td>ffmpeg.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\ffmpeg.exe</td><td>1</td><td/></row>
-		<row><td>ffms2.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>FFMS2~1.AVS|FFMS2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\FFMS2.avsi</td><td>1</td><td/></row>
+		<row><td>ffms2.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>FFMS2~1.AVS|FFMS2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\FFMS2.avsi</td><td>1</td><td/></row>
 		<row><td>ffms2.dll</td><td>ffms2.dll</td><td>ffms2.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\ffms2.dll</td><td>1</td><td/></row>
 		<row><td>fft3dfilter.dll</td><td>FFT3DFilter.dll</td><td>FFT3DF~1.DLL|FFT3DFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\FFT3DFilter.dll</td><td>1</td><td/></row>
 		<row><td>fft3dgpu.dll</td><td>FFT3dGPU.dll</td><td>FFT3dGPU.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\FFT3dGPU.dll</td><td>1</td><td/></row>
-		<row><td>fft3dgpu.hlsl</td><td>ISX_DEFAULTCOMPONENT4</td><td>FFT3DG~1.HLS|fft3dgpu.hlsl</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\fft3dgpu.hlsl</td><td>1</td><td/></row>
+		<row><td>fft3dgpu.hlsl</td><td>ISX_DEFAULTCOMPONENT7</td><td>FFT3DG~1.HLS|fft3dgpu.hlsl</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\fft3dgpu.hlsl</td><td>1</td><td/></row>
 		<row><td>fftw3.dll</td><td>fftw3.dll</td><td>fftw3.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\fftw3.dll</td><td>1</td><td/></row>
 		<row><td>flac.exe</td><td>flac.exe</td><td>flac.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\flac.exe</td><td>1</td><td/></row>
 		<row><td>flash3kyuu_deband.dll</td><td>flash3kyuu_deband.dll</td><td>FLASH3~1.DLL|flash3kyuu_deband.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\flash3kyuu_deband.dll</td><td>1</td><td/></row>
@@ -2211,74 +2515,79 @@
 		<row><td>flvlib.dll</td><td>FLVLib.dll</td><td>FLVLib.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\FLVLib.dll</td><td>1</td><td/></row>
 		<row><td>fturn_25.dll</td><td>fturn_25.dll</td><td>fturn-25.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\fturn-25.dll</td><td>1</td><td/></row>
 		<row><td>fturn_26.dll</td><td>fturn_26.dll</td><td>fturn-26.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\fturn-26.dll</td><td>1</td><td/></row>
+		<row><td>gmkvextractgui.exe</td><td>gMKVExtractGUI.exe</td><td>GMKVEX~1.EXE|gMKVExtractGUI.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\gMKVExtractGUI.exe</td><td>1</td><td/></row>
+		<row><td>gmkvextractgui.ini</td><td>ISX_DEFAULTCOMPONENT12</td><td>GMKVEX~1.INI|gMKVExtractGUI.ini</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\gMKVExtractGUI.ini</td><td>1</td><td/></row>
+		<row><td>gmkvtoolnix.dll</td><td>gMKVToolnix.dll</td><td>GMKVTO~1.DLL|gMKVToolnix.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\gMKVToolnix.dll</td><td>1</td><td/></row>
 		<row><td>gradfun2db.dll</td><td>gradfun2db.dll</td><td>GRADFU~1.DLL|gradfun2db.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\gradfun2db.dll</td><td>1</td><td/></row>
-		<row><td>gradfun2dbmod.v1.5.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>GRADFU~1.AVS|GradFun2DBmod.v1.5.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GradFun2DBmod.v1.5.avsi</td><td>1</td><td/></row>
-		<row><td>gradfunkmirror.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>GRADFU~1.AVS|GradFunkMirror.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GradFunkMirror.avsi</td><td>1</td><td/></row>
-		<row><td>grainfactory3mod_v1.2.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>GRAINF~1.AVS|GrainFactory3mod_v1.2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GrainFactory3mod_v1.2.avsi</td><td>1</td><td/></row>
-		<row><td>grainfactorylite_v1.2.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>GRAINF~1.AVS|GrainFactoryLite_v1.2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GrainFactoryLite_v1.2.avsi</td><td>1</td><td/></row>
+		<row><td>gradfun2dbmod.v1.5.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>GRADFU~1.AVS|GradFun2DBmod.v1.5.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GradFun2DBmod.v1.5.avsi</td><td>1</td><td/></row>
+		<row><td>gradfunkmirror.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>GRADFU~1.AVS|GradFunkMirror.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GradFunkMirror.avsi</td><td>1</td><td/></row>
+		<row><td>grainfactory3mod_v1.2.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>GRAINF~1.AVS|GrainFactory3mod_v1.2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GrainFactory3mod_v1.2.avsi</td><td>1</td><td/></row>
+		<row><td>grainfactorylite_v1.2.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>GRAINF~1.AVS|GrainFactoryLite_v1.2.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\GrainFactoryLite_v1.2.avsi</td><td>1</td><td/></row>
 		<row><td>help.rtf</td><td>ISX_DEFAULTCOMPONENT</td><td>help.rtf</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\help.rtf</td><td>1</td><td/></row>
 		<row><td>help_zh_tw.rtf</td><td>ISX_DEFAULTCOMPONENT</td><td>HELP_Z~1.RTF|help_zh_tw.rtf</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\help_zh_tw.rtf</td><td>1</td><td/></row>
-		<row><td>hqderingmod_v1.8.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>HQDERI~1.AVS|HQDeringmod_v1.8.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\HQDeringmod_v1.8.avsi</td><td>1</td><td/></row>
+		<row><td>hqderingmod_v1.8.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>HQDERI~1.AVS|HQDeringmod_v1.8.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\HQDeringmod_v1.8.avsi</td><td>1</td><td/></row>
 		<row><td>icudt49.dll</td><td>icudt49.dll</td><td>icudt49.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\icudt49.dll</td><td>1</td><td/></row>
 		<row><td>interop.wmplib.dll</td><td>Interop.WMPLib.dll</td><td>INTERO~1.DLL|Interop.WMPLib.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\Interop.WMPLib.dll</td><td>1</td><td/></row>
-		<row><td>ios.txt</td><td>ISX_DEFAULTCOMPONENT5</td><td>iOS.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\iOS.txt</td><td>1</td><td/></row>
+		<row><td>ios.txt</td><td>ISX_DEFAULTCOMPONENT9</td><td>iOS.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\iOS.txt</td><td>1</td><td/></row>
 		<row><td>js.dll</td><td>js.dll</td><td>js.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\js.dll</td><td>1</td><td/></row>
 		<row><td>js32.dll</td><td>js32.dll</td><td>js32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\js32.dll</td><td>1</td><td/></row>
 		<row><td>leakkerneldeint.dll</td><td>LeakKernelDeint.dll</td><td>LEAKKE~1.DLL|LeakKernelDeint.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LeakKernelDeint.dll</td><td>1</td><td/></row>
 		<row><td>libdispatch.dll</td><td>libdispatch.dll</td><td>LIBDIS~1.DLL|libdispatch.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\libdispatch.dll</td><td>1</td><td/></row>
 		<row><td>libeay32.dll</td><td>libeay32.dll</td><td>libeay32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\libeay32.dll</td><td>1</td><td/></row>
 		<row><td>libfftw3f_3.dll</td><td>libfftw3f_3.dll</td><td>LIBFFT~1.DLL|libfftw3f-3.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\libfftw3f-3.dll</td><td>1</td><td/></row>
+		<row><td>libgcc_s_sjlj_1.dll</td><td>libgcc_s_sjlj_1.dll</td><td>LIBGCC~1.DLL|libgcc_s_sjlj-1.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\libgcc_s_sjlj-1.dll</td><td>1</td><td/></row>
 		<row><td>libgpac.dll</td><td>libgpac.dll</td><td>libgpac.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\libgpac.dll</td><td>1</td><td/></row>
 		<row><td>libicuin.dll</td><td>libicuin.dll</td><td>libicuin.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\libicuin.dll</td><td>1</td><td/></row>
 		<row><td>libicuuc.dll</td><td>libicuuc.dll</td><td>libicuuc.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\libicuuc.dll</td><td>1</td><td/></row>
 		<row><td>libsoxconvolver.dll</td><td>libsoxconvolver.dll</td><td>LIBSOX~1.DLL|libsoxconvolver.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\libsoxconvolver.dll</td><td>1</td><td/></row>
 		<row><td>libsoxr.dll</td><td>libsoxr.dll</td><td>libsoxr.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\libsoxr.dll</td><td>1</td><td/></row>
-		<row><td>log.txt</td><td>ISX_DEFAULTCOMPONENT</td><td>log.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\log.txt</td><td>1</td><td/></row>
-		<row><td>logonr_v0.1.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>LOGONR~1.AVS|logoNR_v0.1.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\logoNR_v0.1.avsi</td><td>1</td><td/></row>
-		<row><td>lsfmod.v1.9.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>LSFMOD~1.AVS|LSFmod.v1.9.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LSFmod.v1.9.avsi</td><td>1</td><td/></row>
+		<row><td>license.txt</td><td>ISX_DEFAULTCOMPONENT12</td><td>License.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\License.txt</td><td>1</td><td/></row>
+		<row><td>logonr_v0.1.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>LOGONR~1.AVS|logoNR_v0.1.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\logoNR_v0.1.avsi</td><td>1</td><td/></row>
+		<row><td>lsfmod.v1.9.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>LSFMOD~1.AVS|LSFmod.v1.9.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LSFmod.v1.9.avsi</td><td>1</td><td/></row>
 		<row><td>lsmashsource.dll</td><td>LSMASHSource.dll</td><td>LSMASH~1.DLL|LSMASHSource.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LSMASHSource.dll</td><td>1</td><td/></row>
-		<row><td>lumadb_v0.7.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>LUMADB~1.AVS|LumaDB_v0.7.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LumaDB_v0.7.avsi</td><td>1</td><td/></row>
-		<row><td>lumadblite_v0.7.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>LUMADB~1.AVS|LumaDBLite_v0.7.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LumaDBLite_v0.7.avsi</td><td>1</td><td/></row>
-		<row><td>mad.txt</td><td>ISX_DEFAULTCOMPONENT5</td><td>mad.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\mad.txt</td><td>1</td><td/></row>
-		<row><td>mcaa.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>MCAA~1.AVS|MCAA.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MCAA.avsi</td><td>1</td><td/></row>
-		<row><td>mctdmod.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>MCTDMO~1.AVS|MCTDmod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MCTDmod.avsi</td><td>1</td><td/></row>
-		<row><td>mediainfo.dll</td><td>MediaInfo.dll</td><td>MEDIAI~1.DLL|MediaInfo.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\MediaInfo.dll</td><td>1</td><td/></row>
-		<row><td>mediainfo.dll1</td><td>MediaInfo.dll1</td><td>MEDIAI~1.DLL|MediaInfo.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x64\MediaInfo.dll</td><td>1</td><td/></row>
+		<row><td>lumadb_v0.7.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>LUMADB~1.AVS|LumaDB_v0.7.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LumaDB_v0.7.avsi</td><td>1</td><td/></row>
+		<row><td>lumadblite_v0.7.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>LUMADB~1.AVS|LumaDBLite_v0.7.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\LumaDBLite_v0.7.avsi</td><td>1</td><td/></row>
+		<row><td>mad.txt</td><td>ISX_DEFAULTCOMPONENT9</td><td>mad.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\mad.txt</td><td>1</td><td/></row>
+		<row><td>mcaa.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>MCAA~1.AVS|MCAA.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MCAA.avsi</td><td>1</td><td/></row>
+		<row><td>mctdmod.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>MCTDMO~1.AVS|MCTDmod.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MCTDmod.avsi</td><td>1</td><td/></row>
+		<row><td>mediainfo.dll</td><td>MediaInfo.dll</td><td>MEDIAI~1.DLL|MediaInfo.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x64\MediaInfo.dll</td><td>1</td><td/></row>
+		<row><td>mediainfo.dll1</td><td>MediaInfo.dll1</td><td>MEDIAI~1.DLL|MediaInfo.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\MediaInfo.dll</td><td>1</td><td/></row>
 		<row><td>medianblur.dll</td><td>medianblur.dll</td><td>MEDIAN~1.DLL|medianblur.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\medianblur.dll</td><td>1</td><td/></row>
 		<row><td>mfc100.dll</td><td>mfc100.dll</td><td>mfc100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\mfc100.dll</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack</td><td>Microsoft.WindowsAPICodePack.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\Microsoft.WindowsAPICodePack.dll</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack1</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\Microsoft.WindowsAPICodePack.Shell.dll</td><td>1</td><td/></row>
-		<row><td>minblur.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>MINBLU~1.AVS|MinBlur.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MinBlur.avsi</td><td>1</td><td/></row>
+		<row><td>minblur.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>MINBLU~1.AVS|MinBlur.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MinBlur.avsi</td><td>1</td><td/></row>
 		<row><td>mkvextract.exe</td><td>mkvextract.exe</td><td>MKVEXT~1.EXE|mkvextract.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\mkvextract.exe</td><td>1</td><td/></row>
+		<row><td>mkvinfo.exe</td><td>mkvinfo.exe</td><td>mkvinfo.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\mkvinfo.exe</td><td>1</td><td/></row>
 		<row><td>mkvmerge.exe</td><td>mkvmerge.exe</td><td>mkvmerge.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\mkvmerge.exe</td><td>1</td><td/></row>
+		<row><td>mmg.exe</td><td>mmg.exe</td><td>mmg.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\mmg.exe</td><td>1</td><td/></row>
 		<row><td>mp4box.exe</td><td>MP4Box.exe</td><td>MP4Box.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\MP4Box.exe</td><td>1</td><td/></row>
 		<row><td>msharpen.dll</td><td>MSharpen.dll</td><td>MSharpen.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MSharpen.dll</td><td>1</td><td/></row>
 		<row><td>msvcp100.dll</td><td>msvcp100.dll</td><td>msvcp100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\msvcp100.dll</td><td>1</td><td/></row>
 		<row><td>msvcp120.dll</td><td>msvcp120.dll</td><td>msvcp120.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\msvcp120.dll</td><td>1</td><td/></row>
-		<row><td>msvcr100.dll</td><td>msvcr100.dll</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\msvcr100.dll</td><td>1</td><td/></row>
-		<row><td>msvcr100.dll1</td><td>msvcr100.dll1</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\msvcr100.dll</td><td>1</td><td/></row>
-		<row><td>msvcr100.dll2</td><td>msvcr100.dll2</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\msvcr100.dll</td><td>1</td><td/></row>
-		<row><td>msvcr120.dll</td><td>msvcr120.dll</td><td>msvcr120.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\msvcr120.dll</td><td>1</td><td/></row>
-		<row><td>msvcr120.dll1</td><td>msvcr120.dll1</td><td>msvcr120.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\msvcr120.dll</td><td>1</td><td/></row>
+		<row><td>msvcr100.dll</td><td>msvcr100.dll</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\msvcr100.dll</td><td>1</td><td/></row>
+		<row><td>msvcr100.dll1</td><td>msvcr100.dll1</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\msvcr100.dll</td><td>1</td><td/></row>
+		<row><td>msvcr100.dll2</td><td>msvcr100.dll2</td><td>msvcr100.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\msvcr100.dll</td><td>1</td><td/></row>
+		<row><td>msvcr120.dll</td><td>msvcr120.dll</td><td>msvcr120.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\msvcr120.dll</td><td>1</td><td/></row>
+		<row><td>msvcr120.dll1</td><td>msvcr120.dll1</td><td>msvcr120.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\msvcr120.dll</td><td>1</td><td/></row>
 		<row><td>mt_masktools_25.dll</td><td>mt_masktools_25.dll</td><td>MT_MAS~1.DLL|mt_masktools-25.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_masktools-25.dll</td><td>1</td><td/></row>
 		<row><td>mt_masktools_25_x64.dll</td><td>mt_masktools_25_x64.dll</td><td>MT_MAS~1.DLL|mt_masktools-25-x64.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_masktools-25-x64.dll</td><td>1</td><td/></row>
 		<row><td>mt_masktools_26.dll</td><td>mt_masktools_26.dll</td><td>MT_MAS~1.DLL|mt_masktools-26.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_masktools-26.dll</td><td>1</td><td/></row>
 		<row><td>mt_masktools_26_x64.dll</td><td>mt_masktools_26_x64.dll</td><td>MT_MAS~1.DLL|mt_masktools-26-x64.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_masktools-26-x64.dll</td><td>1</td><td/></row>
-		<row><td>mt_xxpand_multi.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>MT_XXP~1.AVS|mt_xxpand_multi.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_xxpand_multi.avsi</td><td>1</td><td/></row>
+		<row><td>mt_xxpand_multi.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>MT_XXP~1.AVS|mt_xxpand_multi.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mt_xxpand_multi.avsi</td><td>1</td><td/></row>
 		<row><td>mvcsource.dll</td><td>MVCsource.dll</td><td>MVCSOU~1.DLL|MVCsource.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\MVCsource.dll</td><td>1</td><td/></row>
 		<row><td>mvtools2.dll</td><td>mvtools2.dll</td><td>mvtools2.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\mvtools2.dll</td><td>1</td><td/></row>
 		<row><td>neroaacenc.exe</td><td>neroAacEnc.exe</td><td>NEROAA~1.EXE|neroAacEnc.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\neroAacEnc.exe</td><td>1</td><td/></row>
 		<row><td>nnedi3.dll</td><td>nnedi3.dll</td><td>nnedi3.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\nnedi3.dll</td><td>1</td><td/></row>
-		<row><td>nnedi3_resize16_v3.3.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>NNEDI3~1.AVS|nnedi3_resize16_v3.3.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\nnedi3_resize16_v3.3.avsi</td><td>1</td><td/></row>
-		<row><td>o16mod_v2.2.0.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>O16MOD~1.AVS|O16mod_v2.2.0.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\O16mod_v2.2.0.avsi</td><td>1</td><td/></row>
+		<row><td>nnedi3_resize16_v3.3.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>NNEDI3~1.AVS|nnedi3_resize16_v3.3.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\nnedi3_resize16_v3.3.avsi</td><td>1</td><td/></row>
+		<row><td>o16mod_v2.2.0.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>O16MOD~1.AVS|O16mod_v2.2.0.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\O16mod_v2.2.0.avsi</td><td>1</td><td/></row>
 		<row><td>objc.dll</td><td>objc.dll</td><td>objc.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qtfiles\objc.dll</td><td>1</td><td/></row>
 		<row><td>opencl.dll</td><td>OpenCL.dll</td><td>OpenCL.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\OpenCL.dll</td><td>1</td><td/></row>
 		<row><td>pnlm.dll</td><td>PNLM.dll</td><td>PNLM.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\PNLM.dll</td><td>1</td><td/></row>
-		<row><td>psp.txt</td><td>ISX_DEFAULTCOMPONENT5</td><td>PSP.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\PSP.txt</td><td>1</td><td/></row>
-		<row><td>psv.txt</td><td>ISX_DEFAULTCOMPONENT5</td><td>psv.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\psv.txt</td><td>1</td><td/></row>
+		<row><td>preset.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>preset.xml</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\preset.xml</td><td>1</td><td/></row>
+		<row><td>psp.txt</td><td>ISX_DEFAULTCOMPONENT9</td><td>PSP.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\PSP.txt</td><td>1</td><td/></row>
+		<row><td>psv.txt</td><td>ISX_DEFAULTCOMPONENT9</td><td>psv.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\preset\psv.txt</td><td>1</td><td/></row>
 		<row><td>qaac.exe</td><td>qaac.exe</td><td>qaac.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\qaac.exe</td><td>1</td><td/></row>
 		<row><td>qtcf.dll</td><td>QTCF.dll</td><td>QTCF.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\QTCF.dll</td><td>1</td><td/></row>
-		<row><td>qtgmc_3.32.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>QTGMC-~1.AVS|QTGMC-3.32.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\QTGMC-3.32.avsi</td><td>1</td><td/></row>
+		<row><td>qtgmc_3.32.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>QTGMC-~1.AVS|QTGMC-3.32.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\QTGMC-3.32.avsi</td><td>1</td><td/></row>
 		<row><td>refalac.exe</td><td>refalac.exe</td><td>refalac.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\refalac.exe</td><td>1</td><td/></row>
 		<row><td>removegrain.dll</td><td>RemoveGrain.dll</td><td>REMOVE~1.DLL|RemoveGrain.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\RemoveGrain.dll</td><td>1</td><td/></row>
 		<row><td>removegrains.dll</td><td>RemoveGrainS.dll</td><td>REMOVE~1.DLL|RemoveGrainS.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\RemoveGrainS.dll</td><td>1</td><td/></row>
@@ -2293,38 +2602,40 @@
 		<row><td>rsharpensse2.dll</td><td>RSharpenSSE2.dll</td><td>RSHARP~1.DLL|RSharpenSSE2.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\RSharpenSSE2.dll</td><td>1</td><td/></row>
 		<row><td>rsharpensse3.dll</td><td>RSharpenSSE3.dll</td><td>RSHARP~1.DLL|RSharpenSSE3.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\RSharpenSSE3.dll</td><td>1</td><td/></row>
 		<row><td>sangnom.dll</td><td>SangNom.dll</td><td>SangNom.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SangNom.dll</td><td>1</td><td/></row>
-		<row><td>smdegrain_v.2.2d.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>SMDEGR~1.AVS|SMDegrain v.2.2d.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SMDegrain v.2.2d.avsi</td><td>1</td><td/></row>
+		<row><td>smdegrain_v.2.2d.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>SMDEGR~1.AVS|SMDegrain v.2.2d.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SMDegrain v.2.2d.avsi</td><td>1</td><td/></row>
 		<row><td>smoothadjust.dll</td><td>SmoothAdjust.dll</td><td>SMOOTH~1.DLL|SmoothAdjust.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SmoothAdjust.dll</td><td>1</td><td/></row>
 		<row><td>sse2tools.dll</td><td>SSE2Tools.dll</td><td>SSE2TO~1.DLL|SSE2Tools.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SSE2Tools.dll</td><td>1</td><td/></row>
 		<row><td>sse3tools.dll</td><td>SSE3Tools.dll</td><td>SSE3TO~1.DLL|SSE3Tools.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SSE3Tools.dll</td><td>1</td><td/></row>
 		<row><td>ssetools.dll</td><td>SSETools.dll</td><td>SSETools.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SSETools.dll</td><td>1</td><td/></row>
 		<row><td>ssetoolss.dll</td><td>SSEToolsS.dll</td><td>SSETOO~1.DLL|SSEToolsS.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\SSEToolsS.dll</td><td>1</td><td/></row>
 		<row><td>ssleay32.dll</td><td>ssleay32.dll</td><td>ssleay32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\ssleay32.dll</td><td>1</td><td/></row>
-		<row><td>taa.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>TAA~1.AVS|TAA.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TAA.avsi</td><td>1</td><td/></row>
+		<row><td>taa.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>TAA~1.AVS|TAA.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TAA.avsi</td><td>1</td><td/></row>
 		<row><td>tcanny.dll</td><td>tcanny.dll</td><td>tcanny.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\tcanny.dll</td><td>1</td><td/></row>
 		<row><td>tcpdeliver.dll</td><td>TCPDeliver.dll</td><td>TCPDEL~1.DLL|TCPDeliver.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TCPDeliver.dll</td><td>1</td><td/></row>
 		<row><td>tdeint.dll</td><td>TDeint.dll</td><td>TDeint.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TDeint.dll</td><td>1</td><td/></row>
 		<row><td>tedgemask.dll</td><td>TEdgeMask.dll</td><td>TEDGEM~1.DLL|TEdgeMask.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TEdgeMask.dll</td><td>1</td><td/></row>
 		<row><td>tivtc.dll</td><td>TIVTC.dll</td><td>TIVTC.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TIVTC.dll</td><td>1</td><td/></row>
-		<row><td>toolchain_ver.txt</td><td>ISX_DEFAULTCOMPONENT3</td><td>TOOLCH~1.TXT|toolchain_ver.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\toolchain_ver.txt</td><td>1</td><td/></row>
+		<row><td>toolchain_ver.txt</td><td>ISX_DEFAULTCOMPONENT12</td><td>TOOLCH~1.TXT|toolchain_ver.txt</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\toolchain_ver.txt</td><td>1</td><td/></row>
 		<row><td>ttempsmooth.dll</td><td>TTempSmooth.dll</td><td>TTEMPS~1.DLL|TTempSmooth.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\TTempSmooth.dll</td><td>1</td><td/></row>
 		<row><td>undot.dll</td><td>UnDot.dll</td><td>UnDot.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\UnDot.dll</td><td>1</td><td/></row>
 		<row><td>vapoursource.dll</td><td>VapourSource.dll</td><td>VAPOUR~1.DLL|VapourSource.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\VapourSource.dll</td><td>1</td><td/></row>
-		<row><td>vsfilter.dll</td><td>VSFilter.dll</td><td>VSFilter.dll</td><td>0</td><td/><td/><td>0</td><td>1</td><td>F:\xiaowan\tools\VSFilter.dll</td><td>1</td><td/></row>
-		<row><td>vsfilter.dll1</td><td>VSFilter.dll1</td><td>VSFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\VSFilter.dll</td><td>1</td><td/></row>
-		<row><td>vsfilter64.dll</td><td>VSFilter64.dll</td><td>VSFILT~1.DLL|VSFilter64.dll</td><td>0</td><td/><td/><td>0</td><td>1</td><td>F:\xiaowan\tools\VSFilter64.dll</td><td>1</td><td/></row>
+		<row><td>vsfilter.dll</td><td>VSFilter.dll</td><td>VSFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\VSFilter.dll</td><td>1</td><td/></row>
+		<row><td>vsfilter.dll1</td><td>VSFilter.dll1</td><td>VSFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\VSFilter.dll</td><td>1</td><td/></row>
+		<row><td>vsfilter64.dll</td><td>VSFilter64.dll</td><td>VSFILT~1.DLL|VSFilter64.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\VSFilter64.dll</td><td>1</td><td/></row>
 		<row><td>vsfiltermod.dll</td><td>VSFilterMod.dll</td><td>VSFILT~1.DLL|VSFilterMod.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\VSFilterMod.dll</td><td>1</td><td/></row>
 		<row><td>x264_32_10bit.exe</td><td>x264_32_10bit.exe</td><td>X264_3~1.EXE|x264_32-10bit.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x264_32-10bit.exe</td><td>1</td><td/></row>
 		<row><td>x264_32_8bit.exe</td><td>x264_32_8bit.exe</td><td>X264_3~1.EXE|x264_32-8bit.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x264_32-8bit.exe</td><td>1</td><td/></row>
 		<row><td>x264_64_10bit.exe</td><td>x264_64_10bit.exe</td><td>X264_6~1.EXE|x264_64-10bit.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x264_64-10bit.exe</td><td>1</td><td/></row>
 		<row><td>x264_64_8bit.exe</td><td>x264_64_8bit.exe</td><td>X264_6~1.EXE|x264_64-8bit.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x264_64-8bit.exe</td><td>1</td><td/></row>
+		<row><td>x265_32.exe</td><td>x265_32.exe</td><td>x265_32.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x265_32.exe</td><td>1</td><td/></row>
+		<row><td>x265_64.exe</td><td>x265_64.exe</td><td>x265_64.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\x265_64.exe</td><td>1</td><td/></row>
 		<row><td>xiaowan.exe</td><td>xiaowan.exe</td><td>xiaowan.exe</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\xiaowan.exe</td><td>1</td><td/></row>
 		<row><td>xiaowan.exe.config</td><td>ISX_DEFAULTCOMPONENT</td><td>XIAOWA~1.CON|xiaowan.exe.Config</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\xiaowan.exe.Config</td><td>1</td><td/></row>
 		<row><td>xiaowan.resources.dll</td><td>xiaowan.resources.dll</td><td>XIAOWA~1.DLL|xiaowan.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\en\xiaowan.resources.dll</td><td>1</td><td/></row>
 		<row><td>xiaowan.resources.dll1</td><td>xiaowan.resources.dll1</td><td>XIAOWA~1.DLL|xiaowan.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\ja-JP\xiaowan.resources.dll</td><td>1</td><td/></row>
 		<row><td>xiaowan.resources.dll2</td><td>xiaowan.resources.dll2</td><td>XIAOWA~1.DLL|xiaowan.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\zh-HanT\xiaowan.resources.dll</td><td>1</td><td/></row>
 		<row><td>xy_vsfilter.dll</td><td>xy_VSFilter.dll</td><td>XY-VSF~1.DLL|xy-VSFilter.dll</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\xy-VSFilter.dll</td><td>1</td><td/></row>
-		<row><td>yuy2converter.avsi</td><td>ISX_DEFAULTCOMPONENT4</td><td>YUY2CO~1.AVS|YUY2Converter.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\YUY2Converter.avsi</td><td>1</td><td/></row>
+		<row><td>yuy2converter.avsi</td><td>ISX_DEFAULTCOMPONENT7</td><td>YUY2CO~1.AVS|YUY2Converter.avsi</td><td>0</td><td/><td/><td/><td>1</td><td>F:\xiaowan\tools\avsfilter\YUY2Converter.avsi</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2343,6 +2654,7 @@
 		<row><td>NewShortcut1</td><td/></row>
 		<row><td>PROJECT_ASSISTANT_DEFAULT_FEATURE</td><td>AlwaysInstall</td></row>
 		<row><td>PROJECT_ASSISTANT_FEATURES</td><td>NonSelectable</td></row>
+		<row><td>Shortcut</td><td/></row>
 		<row><td>xiaowan.exe</td><td/></row>
 	</table>
 
@@ -2470,139 +2782,148 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>ASL.dll</td><td/><td/><td>_2E57E962_F252_4D2F_842A_0410CECC946A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>AddGrainC.dll</td><td/><td/><td>_1DA1FE18_5408_48A2_AD43_93771E7EC5A4_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>AviSynth.dll</td><td/><td/><td>_F57DDC39_7B0D_473A_A1EA_9C1709FD4819_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>AxInterop.WMPLib.dll</td><td/><td/><td>_468F5D29_E816_4AA5_AB37_05483AC9ABC6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>BT709ToBT601.dll</td><td/><td/><td>_3949E758_4DA5_4411_93FD_89576205439F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ColorMatrix.dll</td><td/><td/><td>_745A19E2_8047_45AE_A154_AD55D8321C91_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ControlExs.dll</td><td/><td/><td>_48466499_307B_4F90_BDB3_614919CA4882_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Convolution3DYV12.dll</td><td/><td/><td>_4E87B1C8_57A4_48F5_B832_6D51C97F5D9A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>CoreAudioToolbox.dll</td><td/><td/><td>_9B784359_C62D_4F00_B5C0_423CDD49E663_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>CoreFoundation.dll</td><td/><td/><td>_599FAF8E_7FBA_4852_84A3_41ABF02BA43F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>DGDecodeNV.dll</td><td/><td/><td>_78693E70_1667_4ED6_B7E3_4AF14A20B8A1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>DctFilter.dll</td><td/><td/><td>_6FA01FB6_2E67_4587_AB44_74A706F410E4_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Decomb.dll</td><td/><td/><td>_4FFAA76C_7DFE_4B9D_A4ED_19A9C59AB059_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>DevIL.dll</td><td/><td/><td>_0B29CBB1_815A_45BD_926B_26F0AF730B68_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>DirectShowSource.dll</td><td/><td/><td>_3B038D25_601D_43AB_A6B2_3C41D6641D00_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>EEDI2.dll</td><td/><td/><td>_6BB9FBBA_5AF6_4859_86CD_7A85A5DEA0F7_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>EEDI2_imp.dll</td><td/><td/><td>_5BD07339_8E16_4F39_B329_0E25906D5F0C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FFT3DFilter.dll</td><td/><td/><td>_7AC8D2FC_C3E2_4446_BCB8_6100FF85FAA3_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FFT3dGPU.dll</td><td/><td/><td>_9DDDA00F_D6CC_4BA2_89C8_7E4F6FB87CA3_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FLVExtractCL.exe</td><td/><td/><td>_2C5BDCFF_3B4D_40D7_9459_9CA659FB8702_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FLVLib.dll</td><td/><td/><td>_D357A828_50A4_420E_9CCC_A5ADB6D8B97F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FluxSmooth.dll</td><td/><td/><td>_49615B2B_150B_4115_AACF_15767FAEED32_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FlvBind.exe</td><td/><td/><td>_BEB9993D_321D_4C71_B353_D13CEC321B07_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ASL.dll</td><td/><td/><td>_07305D08_4E77_4A47_8F40_3C30D622C209_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>AddGrainC.dll</td><td/><td/><td>_CEBDE914_EE44_4164_ADE9_2EDC4EEDFECB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>AxInterop.WMPLib.dll</td><td/><td/><td>_991509EE_D483_4672_B3E6_823948EE6C33_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>BT709ToBT601.dll</td><td/><td/><td>_98D1C151_CF19_4879_AF83_A6436653AB8F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ColorMatrix.dll</td><td/><td/><td>_F729D5FD_4C19_4D38_A26B_F3B834A15047_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ControlExs.dll</td><td/><td/><td>_742F244C_9FAD_4B37_8084_36022641DD9D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Convolution3DYV12.dll</td><td/><td/><td>_AE41F948_E378_472A_8DD1_173AC913C9A2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>CoreAudioToolbox.dll</td><td/><td/><td>_71413895_106E_4B31_95A2_6DB7D960AC54_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>CoreFoundation.dll</td><td/><td/><td>_7E9BE3E7_7702_4425_8F0A_90366F6AE1D0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>DGDecodeNV.dll</td><td/><td/><td>_A5D75226_A7FD_4B70_9728_87D404F8AEC0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>DctFilter.dll</td><td/><td/><td>_9842A634_5F2E_4D45_992B_52C039226E07_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Decomb.dll</td><td/><td/><td>_BB0F85AA_F1F1_4542_901B_8652B131CA5F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>DirectShowSource.dll</td><td/><td/><td>_572C19D8_C414_44DC_84DB_ABA8081B4C40_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>EEDI2.dll</td><td/><td/><td>_2684BCB6_162A_43E5_9123_CC9D54FA2AB0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>EEDI2_imp.dll</td><td/><td/><td>_A752F0AF_A4E5_4B5C_8A06_0A5000B8F6A2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FFT3DFilter.dll</td><td/><td/><td>_D7C7DA88_A0C8_491F_87BE_4A2FC80002FE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FFT3dGPU.dll</td><td/><td/><td>_3BCA99DF_5641_49FE_97B4_A1E5B2B112DB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FLVExtractCL.exe</td><td/><td/><td>_2C18610D_F4BA_4E6C_B991_8D5960794103_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FLVLib.dll</td><td/><td/><td>_1BC3FCCF_5E75_4F42_A68E_DCC76CD14B2E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FluxSmooth.dll</td><td/><td/><td>_A2554FE3_FE23_481F_8FF5_E7A7CF8E32D8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FlvBind.exe</td><td/><td/><td>_3E71E25A_1F1D_4B0A_9D9F_97238EA955A3_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_821EA27B_F89E_4122_A191_7107097A4ADC_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_40C2BFA8_E9C8_4F89_8B89_E8C65A3799BD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_191FC28D_5DB8_47B8_A70C_47C03D6091A5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_E8552274_D807_45B3_B313_12C811A036F5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_EEAB9460_A523_48CB_A241_A14E5AE407B1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_54FB2618_4BBD_4133_B252_653AA3E15037_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_4A97144E_2C1A_4A97_AC58_58D0B38A5EF6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_F5048515_F87F_443A_B9D6_38B928552CB5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_A3E821E4_7687_4339_B0EE_F0F4F0E6280E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Interop.WMPLib.dll</td><td/><td/><td>_8366236F_EA86_4103_84A8_0D91A0A03489_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>LSMASHSource.dll</td><td/><td/><td>_9C6768EE_861E_4820_B839_67D4C8C79999_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>LeakKernelDeint.dll</td><td/><td/><td>_059A7B69_1E7C_4C29_88BF_001ABAC19430_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MP4Box.exe</td><td/><td/><td>_56CC5145_F9F6_4488_BEDE_4A72383A9E94_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MSharpen.dll</td><td/><td/><td>_FC4E1C1E_C857_40EF_8419_857ADE42B1C0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MVCsource.dll</td><td/><td/><td>_523B7A2D_4AA1_435C_8D96_EB6A2C0CB348_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MediaInfo.dll</td><td/><td/><td>_72F44F6C_E389_45D0_B9C9_666EFB09F86F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MediaInfo.dll1</td><td/><td/><td>_5DF1E551_E995_430A_B86C_FEAB0C248195_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td/><td/><td>_C2BCCEDC_D8DA_409E_9685_031F726F3B2C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td/><td/><td>_749E867D_A2EC_46A6_BF91_44B737CB6CE2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>OpenCL.dll</td><td/><td/><td>_DE962998_7177_4B4D_88D2_46B3A7C4A7F0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>PNLM.dll</td><td/><td/><td>_6DE6A48F_C36A_45A6_A9C5_1462CE54DA12_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>QTCF.dll</td><td/><td/><td>_481F03CB_FCE7_47C1_872D_BDF4603B4368_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RSharpen.dll</td><td/><td/><td>_611E3D87_7BF8_424C_A9F3_E862CA13DB30_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RSharpenS.dll</td><td/><td/><td>_85EFF86E_3243_41E6_8901_7BD6ED3A4759_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RSharpenSSE2.dll</td><td/><td/><td>_B8A9B4FF_B917_43CD_A8ED_135B8C176739_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RSharpenSSE3.dll</td><td/><td/><td>_CC993BF8_F141_46EF_810E_1BEDA659B5BC_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RemoveGrain.dll</td><td/><td/><td>_7C52C2BF_8301_407B_B290_DC04D803B845_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RemoveGrainS.dll</td><td/><td/><td>_FF8C80D0_A054_42C2_9A06_03745B6F9A52_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RemoveGrainSSE2.dll</td><td/><td/><td>_CE95608C_371F_40D2_8579_63C1FA37D11B_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RemoveGrainSSE3.dll</td><td/><td/><td>_34B23074_EBF6_4CB2_898C_5A2EEFB3686E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Repair.dll</td><td/><td/><td>_47ACC000_7730_4E99_9F90_12802BF38657_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RepairS.dll</td><td/><td/><td>_835C17E6_5061_4F60_86D5_7B57F52A3011_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RepairSSE2.dll</td><td/><td/><td>_24C9ABB3_956C_4EDB_BF6B_0004C76B804D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>RepairSSE3.dll</td><td/><td/><td>_AFF98E9A_9147_4843_8201_0C3B6DB3C719_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SSE2Tools.dll</td><td/><td/><td>_7CCE2D5E_C701_44EB_A340_F3605B6A3234_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SSE3Tools.dll</td><td/><td/><td>_4A8F94F9_A758_46D2_82D1_7904E7F92D7A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SSETools.dll</td><td/><td/><td>_4DFF47C6_3A61_4DF3_86BF_4B9405F227F0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SSEToolsS.dll</td><td/><td/><td>_5D68DA37_8851_458D_8EE3_6C1CC1DD8B1C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SangNom.dll</td><td/><td/><td>_6E30A5F2_1B55_43EE_A5B0_D92C52F7EA55_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SmoothAdjust.dll</td><td/><td/><td>_CDA2583A_B93E_43E9_9E41_D433749258B2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TCPDeliver.dll</td><td/><td/><td>_3C58261D_2D57_4382_9C41_1168B39835A1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TDeint.dll</td><td/><td/><td>_30AE0F8E_90F6_474A_9B3F_175453A1A692_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TEdgeMask.dll</td><td/><td/><td>_E85AAB49_ED4C_4EF1_9542_03CBAE918A54_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TIVTC.dll</td><td/><td/><td>_D8F6C074_9EBC_4B43_8561_8AE793DCC655_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TTempSmooth.dll</td><td/><td/><td>_F73A09D6_E61C_4974_A350_41DB29C0A7F1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>UnDot.dll</td><td/><td/><td>_45E1E8A0_BE22_413B_8249_4ECAA73A130D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>VSFilter.dll</td><td/><td/><td>_B740B798_B47F_49BD_9501_BE8C495E21E1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>VSFilter.dll1</td><td/><td/><td>_B1A6565E_EF07_49F0_B872_32AA7042D6B0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>VSFilter64.dll</td><td/><td/><td>_BC995AD9_0B42_4F55_8A56_B5C2C80E5D8A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>VSFilterMod.dll</td><td/><td/><td>_93039367_ADE3_4BBA_AC02_60361F295A5A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>VapourSource.dll</td><td/><td/><td>_95CC3B8A_1225_4101_98E4_65CCB80045F2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>aWarpSharp.dll</td><td/><td/><td>_B9F6C98B_FFCA_4A91_BF3F_27C0ED9C42C2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>avstp.dll</td><td/><td/><td>_FC9490C0_8AD0_45B9_9CE9_48C8162172BC_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>deblock.dll</td><td/><td/><td>_FFBEC910_B18E_4D57_A5B3_BD6433036714_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>delogo.dll</td><td/><td/><td>_178391BE_9733_4F99_B52D_6D953B41B52E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>dfttest.dll</td><td/><td/><td>_7FA7754C_D836_464E_934B_137250D6EE7D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>dither.dll</td><td/><td/><td>_31826CCA_CAB9_4247_9F51_A319033C7BB5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>fdkaac.exe</td><td/><td/><td>_CF3D01C5_C871_4B89_8DCB_785037669BFD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ffavisynth.dll</td><td/><td/><td>_EB91B6EE_BB5F_4DD9_8C92_20260B404445_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ffmpeg.exe</td><td/><td/><td>_B3757ED6_FAF5_4220_A3F2_14335BEE9A49_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ffms2.dll</td><td/><td/><td>_D755BA81_FE0C_4A03_A8FD_D4CE8D596B37_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>fftw3.dll</td><td/><td/><td>_11939F2A_0D76_4192_A6D6_C462999743F9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>flac.exe</td><td/><td/><td>_22E62240_D39D_4A79_9FF2_42A5A556AAD9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>flash3kyuu_deband.dll</td><td/><td/><td>_5FF20923_A160_440D_924E_C0E30DFCB0C1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>fturn_25.dll</td><td/><td/><td>_0426A93A_EECA_4E79_9826_BC516D2A7D5F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>fturn_26.dll</td><td/><td/><td>_187C55BC_96BD_4473_BBF8_EEBA4F503C20_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>gradfun2db.dll</td><td/><td/><td>_2222546B_7687_4E1D_9FC6_86511B9EEE75_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>icudt49.dll</td><td/><td/><td>_7EED1562_3473_43C0_A48A_0465AAD188A5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>js.dll</td><td/><td/><td>_3A45A1C7_EBEF_47DE_97AC_CDF32F75F624_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>js32.dll</td><td/><td/><td>_A0337D15_A5D9_4C93_B4A1_1FF5A28A55CC_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libdispatch.dll</td><td/><td/><td>_3B7D5473_A78A_4A67_8277_3ABEA83082E9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libeay32.dll</td><td/><td/><td>_EA0F5E7C_1AC8_413E_94D6_E27AE2CF57A2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libfftw3f_3.dll</td><td/><td/><td>_163CDFF4_239B_4AE8_BBC8_34B2A54A0094_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libgpac.dll</td><td/><td/><td>_92EFE920_FD1C_465E_A72A_427C67A1A520_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libicuin.dll</td><td/><td/><td>_F4E09D8D_87FA_4712_BAD3_F9AC9F52B5F2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libicuuc.dll</td><td/><td/><td>_2875EF0B_39ED_4E2B_B72F_2D6BBD57B550_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libsoxconvolver.dll</td><td/><td/><td>_C09C278B_84A8_477E_9D7C_6A385CB7A38F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libsoxr.dll</td><td/><td/><td>_C68ACC86_7EEF_4293_AF95_C0AA39164F94_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>medianblur.dll</td><td/><td/><td>_596DCDFE_6ED9_4A9D_BDB6_4A73D6834EB9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mfc100.dll</td><td/><td/><td>_B2659164_9332_450B_9F7C_37B0C9180B16_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mkvextract.exe</td><td/><td/><td>_A0699752_DC56_4076_B39B_79E33392FB54_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mkvmerge.exe</td><td/><td/><td>_CE337686_22B2_4D82_B355_A041141D69EF_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcp100.dll</td><td/><td/><td>_3DA8D4DF_68E5_4DD9_B597_1AB831591912_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcp120.dll</td><td/><td/><td>_C6AA4D15_8B05_4A54_8D5D_47F975B39071_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcr100.dll</td><td/><td/><td>_01C04F22_7E67_4E48_B1E0_42AC22F12EEB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcr100.dll1</td><td/><td/><td>_FAB92CF5_28A6_471F_8AE7_2F40141A1637_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcr100.dll2</td><td/><td/><td>_F0F19172_2C31_4FFC_96E2_EED13322D431_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcr120.dll</td><td/><td/><td>_D5D16B01_8D34_46FE_AFD9_D603C60C7365_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>msvcr120.dll1</td><td/><td/><td>_6B85EB8F_697F_4902_8F9A_CA9EE12E529D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mt_masktools_25.dll</td><td/><td/><td>_135865EF_9E57_44D5_8F1B_594F52B773CF_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mt_masktools_25_x64.dll</td><td/><td/><td>_E9A29B13_AED9_4410_BCC0_C56B513FBF00_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mt_masktools_26.dll</td><td/><td/><td>_205F1E9D_CA01_437E_B6F4_B5BD293C5F02_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mt_masktools_26_x64.dll</td><td/><td/><td>_A598BDB4_F797_44A7_9783_8D0DA9A54CB8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>mvtools2.dll</td><td/><td/><td>_CBE76E00_CA29_4B8A_834D_C24DC898BFCB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>neroAacEnc.exe</td><td/><td/><td>_3FE401C8_AC64_473D_A9C3_1A2A039DFB65_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>nnedi3.dll</td><td/><td/><td>_2007B7E8_BD54_4ACD_A59E_696E278627E2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>objc.dll</td><td/><td/><td>_9C09619E_B514_4374_9C01_D64FBCE8BAA1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>qaac.exe</td><td/><td/><td>_18AE3873_3812_48A2_AC73_B3F584B7B8C6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>refalac.exe</td><td/><td/><td>_63744A9E_2673_409D_9F7D_61AC413DA794_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ssleay32.dll</td><td/><td/><td>_4AC71957_E037_4270_8A5B_783A756746F5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>tcanny.dll</td><td/><td/><td>_BD7EAF92_D3C1_43A1_8EF7_C9FD0F798AF0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>x264_32_10bit.exe</td><td/><td/><td>_4C916A6C_7000_44E1_B8F9_7C55153577EA_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>x264_32_8bit.exe</td><td/><td/><td>_DED1EBD5_B50D_46C5_ACA8_9E19211C9E14_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>x264_64_10bit.exe</td><td/><td/><td>_AB58E90C_A47F_4E33_8867_308CD15520E0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>x264_64_8bit.exe</td><td/><td/><td>_A36768A6_A146_4465_B74F_72760A4A8E8F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>xiaowan.exe</td><td/><td/><td>_FA4C78AE_BB2C_400E_BB34_3262BCC623DB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>xiaowan.resources.dll</td><td/><td/><td>_55534F8F_2266_47AC_BB56_D149709E2C8D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>xiaowan.resources.dll1</td><td/><td/><td>_B3F34AFE_C4F9_4B43_8F74_9EBA07A0455A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>xiaowan.resources.dll2</td><td/><td/><td>_9B5D4C08_F6CF_416E_A3BB_8220262261CB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>xy_VSFilter.dll</td><td/><td/><td>_CF8F5340_5E38_4284_8AC4_04E2558CD5D9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_EDFBE11B_998C_4FEF_9ED0_E3B89EEE648E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td/><td/><td>_7BC950DF_FF72_4706_B4BC_97F8456633FA_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td/><td/><td>_B9590CA3_323C_4AC3_80CE_29FC77015D0A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td/><td/><td>_6715369E_3639_4EFD_B8FA_7C25FFAEE0CC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_A8906B84_6A4B_418D_BF65_BF865F1EB674_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_939DC712_28DE_451C_9ACA_1B8CA8190597_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_41892A7A_C4CB_4B50_A83F_C1CAF34E7266_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_308FB9B0_3F26_45EE_A56B_CEAF9D1BA573_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_E726272F_8495_4B85_B00C_F260337CA5D3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_C7C881DB_86A0_4B13_86A6_5F9868ACD38F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_B694827B_AB4D_4168_B7D0_C7530A66341F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_38CFB31A_0933_4E4E_8983_D56D729CE4EA_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>IS_ININSTALL_SHORTCUT</td><td/><td/><td>_ECBF1509_E93F_4CAC_8562_C60826B756F0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Interop.WMPLib.dll</td><td/><td/><td>_FEF47E3A_C279_493E_BC2F_2DCE405035C0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>LSMASHSource.dll</td><td/><td/><td>_F7967430_5815_4E3E_9B7C_30A6ECBBCD0D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>LeakKernelDeint.dll</td><td/><td/><td>_C6F31A69_53D8_4B9A_BA78_DD410AA7EF10_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MP4Box.exe</td><td/><td/><td>_5B22D5C7_27BA_4F88_9A42_53283C097634_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MSharpen.dll</td><td/><td/><td>_48B64D4F_3FF7_4C4E_8CB2_5582ECECAAB1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MVCsource.dll</td><td/><td/><td>_1C8B4F20_6222_4224_98B8_9BE100BA744D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MediaInfo.dll</td><td/><td/><td>_0985111A_FFED_4997_B9AD_3E65B9747ACC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MediaInfo.dll1</td><td/><td/><td>_35A997B4_78AC_4442_BF3B_8FDFF8FCB754_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>OpenCL.dll</td><td/><td/><td>_B12ACC5E_0810_4311_AC8F_1D2FEBDAF51E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>PNLM.dll</td><td/><td/><td>_8C91C8DE_B4CA_436E_B6C4_924F6F5661BC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>QTCF.dll</td><td/><td/><td>_8A9D6784_E86B_464F_8223_C0714CC18029_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RSharpen.dll</td><td/><td/><td>_009EBF41_99D5_4B19_AC1E_AEC118C45197_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RSharpenS.dll</td><td/><td/><td>_49BFC6E3_B588_4C1A_A2F2_D2E82772B6E2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RSharpenSSE2.dll</td><td/><td/><td>_B6DF11A2_ECA7_46D5_9E8B_7271BD6BE155_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RSharpenSSE3.dll</td><td/><td/><td>_A7BE55EF_E161_4378_AC4A_3B50A24D4D55_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RemoveGrain.dll</td><td/><td/><td>_5CA71CF7_6FE1_46BE_9036_8EB3167B19E4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RemoveGrainS.dll</td><td/><td/><td>_D1AAC334_66C0_43E4_B8B3_0AB8F69C9984_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RemoveGrainSSE2.dll</td><td/><td/><td>_C7D3A64C_8B9E_48FE_AE8F_69A8DE03B2C6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RemoveGrainSSE3.dll</td><td/><td/><td>_97A00E3D_DEC8_4E14_B827_0E62B636D99A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Repair.dll</td><td/><td/><td>_D825505A_287D_4528_9D9D_EE842A5C29BB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RepairS.dll</td><td/><td/><td>_350EDA43_4D7F_4959_B6F2_73AA5E84761A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RepairSSE2.dll</td><td/><td/><td>_01D58A43_9658_498C_A93C_DB8FACF3F92E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>RepairSSE3.dll</td><td/><td/><td>_3D07FECC_E504_48ED_A546_FB8D10407E33_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SSE2Tools.dll</td><td/><td/><td>_B7B4454B_C343_4AB5_B7C3_B93BC5F3E266_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SSE3Tools.dll</td><td/><td/><td>_39833081_A96F_47B9_A8CF_EEB4FD7CE3E7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SSETools.dll</td><td/><td/><td>_6F8DD4E6_0695_44D3_B77D_6EDD707A993E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SSEToolsS.dll</td><td/><td/><td>_6C71F57C_E1D3_4E32_9B48_D7A87AC7BF40_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SangNom.dll</td><td/><td/><td>_E4A40165_5B86_4F8E_9385_F2B3DC2FE966_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SmoothAdjust.dll</td><td/><td/><td>_F90DBB62_1B04_4B52_990F_29489D74DD04_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TCPDeliver.dll</td><td/><td/><td>_4B402F9A_5C53_4650_98B2_BD8C34E2A41B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TDeint.dll</td><td/><td/><td>_7CF2341D_32F4_4DDC_936F_5AE5898916A4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TEdgeMask.dll</td><td/><td/><td>_ADD0C206_BE42_4773_BCC1_19F79267A1FC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TIVTC.dll</td><td/><td/><td>_BAC8FEA3_5657_4D15_874B_AD5B03858039_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TTempSmooth.dll</td><td/><td/><td>_AD78A9F7_DD79_46F3_9EE0_3E0860247AA1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>UnDot.dll</td><td/><td/><td>_912A2C4D_56AE_4F03_92D4_D70C3929DA42_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>VSFilter.dll</td><td/><td/><td>_8585903E_7F00_4756_8F79_265D7FE03387_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>VSFilter.dll1</td><td/><td/><td>_85D799D4_AA06_49A0_A5B7_B8C47E4C1A36_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>VSFilter64.dll</td><td/><td/><td>_E9EE41ED_8CF0_4978_AF9E_085675EE0E88_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>VSFilterMod.dll</td><td/><td/><td>_BD850812_5DBD_4E14_903E_5E7A656C2C05_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>VapourSource.dll</td><td/><td/><td>_7E44B895_86E8_4F1C_BBDF_1ED419FFC849_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>aWarpSharp.dll</td><td/><td/><td>_FDF57ED2_B993_4C8B_9596_FBD1D2C21324_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>avs4x26x.exe</td><td/><td/><td>_7EC5B44C_46F1_4C74_996E_7FA28492A462_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>avstp.dll</td><td/><td/><td>_78A8C8C1_252F_47B7_9A96_7E270671B69C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>deblock.dll</td><td/><td/><td>_FF1C635F_9696_48EE_A5B1_DEEB6B1C2E6A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>delogo.dll</td><td/><td/><td>_C0E43A47_AA9D_4476_9F6D_D2978ADF9F69_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>dfttest.dll</td><td/><td/><td>_C1FD0BBA_96EE_4323_B99A_E7AA15C544E4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>dither.dll</td><td/><td/><td>_8C6D740F_AE4F_4B93_8FDD_2F730A70A496_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>fdkaac.exe</td><td/><td/><td>_157413FA_F527_4AD0_8CA1_383BFC41C153_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ffavisynth.dll</td><td/><td/><td>_561B30F0_EB61_4083_ADF7_03B342FCBB28_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ffmpeg.exe</td><td/><td/><td>_05039792_7B18_4456_B547_2C651C0A3A0C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ffms2.dll</td><td/><td/><td>_982B4DF6_4879_4C33_885E_1744454B7556_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>fftw3.dll</td><td/><td/><td>_34D955F3_CBEE_4255_AB31_905100131197_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>flac.exe</td><td/><td/><td>_D24200DA_854E_4296_89B7_073643EC5522_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>flash3kyuu_deband.dll</td><td/><td/><td>_5848C568_9BA9_4609_8F0A_F393F3FEE8D3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>fturn_25.dll</td><td/><td/><td>_AE6A8230_C45A_43D6_8F59_F7F2BC675DE7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>fturn_26.dll</td><td/><td/><td>_FE36C34E_64AF_439F_9BC8_FEE31AE02F07_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>gMKVExtractGUI.exe</td><td/><td/><td>_59366366_ABC6_4F12_B097_AEB913B31D86_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>gMKVToolnix.dll</td><td/><td/><td>_EC1A028F_72AB_422D_9386_5E34C2AF0646_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>gradfun2db.dll</td><td/><td/><td>_74287E33_60A3_4E5B_97B6_A7B3EB4D7E50_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>icudt49.dll</td><td/><td/><td>_BFF4F0E0_66E5_43FE_87E2_EA284488C84C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>js.dll</td><td/><td/><td>_098CF8E3_EAB4_4FF8_BDE4_35B821E91F57_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>js32.dll</td><td/><td/><td>_7958E120_FEDA_41EF_9065_BC8F441E951E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libdispatch.dll</td><td/><td/><td>_5C543515_C4F1_4303_8523_F59DD38E1540_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libeay32.dll</td><td/><td/><td>_6697D59F_4F65_49F8_A9D4_337D9AA320CB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libfftw3f_3.dll</td><td/><td/><td>_B8B01E72_9523_4C3D_8327_F2BD3292B25C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libgcc_s_sjlj_1.dll</td><td/><td/><td>_E376E2FF_2FB5_497E_9360_886414C5D12C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libgpac.dll</td><td/><td/><td>_36650D47_5FFB_4B98_8AA6_B7F21C1A682B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libicuin.dll</td><td/><td/><td>_7703E43D_B239_4069_8422_FEB52E8137CD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libicuuc.dll</td><td/><td/><td>_158F5B96_2578_424B_A5B9_A189346C9A09_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libsoxconvolver.dll</td><td/><td/><td>_B33E5FE4_E967_4883_A5A6_8EEC4A65053E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>libsoxr.dll</td><td/><td/><td>_BEE45D5D_466B_41CB_925B_3ADC6C771644_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>medianblur.dll</td><td/><td/><td>_5DBFCC2D_27A5_4B34_B992_571AE2B85860_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mfc100.dll</td><td/><td/><td>_1A6400BF_0821_4D43_BA09_BFE8A33B45EC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mkvextract.exe</td><td/><td/><td>_2DE70B78_531B_4302_B8B3_92E3C15FCE35_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mkvinfo.exe</td><td/><td/><td>_28596983_7AEA_424D_B913_DE1546958C5B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mkvmerge.exe</td><td/><td/><td>_CE149905_F8E9_4B0D_8D61_37D968BB0B15_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mmg.exe</td><td/><td/><td>_461C2C13_337A_477E_8E93_D09C95FB2D13_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcp100.dll</td><td/><td/><td>_110362BB_70E3_492A_AE2C_78863B3EF77A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcp120.dll</td><td/><td/><td>_C0A8AF9F_5C93_4B5D_B1CE_F6C60F065015_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcr100.dll</td><td/><td/><td>_18E4B28E_DB26_40D1_880B_216990F7E121_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcr100.dll1</td><td/><td/><td>_B10EFAE9_AB68_4BA0_A497_722FE1430761_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcr100.dll2</td><td/><td/><td>_0CAC90A1_88D8_4FF1_8FD2_E5A7A2B58A71_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcr120.dll</td><td/><td/><td>_FE7BB999_C869_4234_AD21_0CD6953983E4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>msvcr120.dll1</td><td/><td/><td>_C60A3A25_8D57_4ED4_9CDC_57FB60F76D67_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mt_masktools_25.dll</td><td/><td/><td>_A2FF9712_7CDD_4329_9BCA_6558BE9168DE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mt_masktools_25_x64.dll</td><td/><td/><td>_DCF17977_7809_4053_9D4C_E8BC6EA08B11_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mt_masktools_26.dll</td><td/><td/><td>_EAB528CA_FFB8_45B9_8138_C9F06E2D17C2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mt_masktools_26_x64.dll</td><td/><td/><td>_1218A399_7F5F_4FD1_9CDF_19E7B3DB2B5E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>mvtools2.dll</td><td/><td/><td>_55C978B5_6351_423C_AE11_EF68428899E2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>neroAacEnc.exe</td><td/><td/><td>_7ED85622_2879_4503_A79A_6ED2801E8556_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>nnedi3.dll</td><td/><td/><td>_99D9DDD1_B94A_44AD_8878_457C543F17CE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>objc.dll</td><td/><td/><td>_4606CA8D_4632_46C5_A3EC_4B4B467EC0C4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>qaac.exe</td><td/><td/><td>_E9FDDA8C_1F59_4BC5_9977_4ED3AE843073_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>refalac.exe</td><td/><td/><td>_ABEC056B_3489_47F5_91B3_5A9F3286DCD7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ssleay32.dll</td><td/><td/><td>_DECF820E_B416_4966_AB9B_6ACD08FBDADB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>tcanny.dll</td><td/><td/><td>_439B168F_572E_4C3B_B630_94AF2DFDF809_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x264_32_10bit.exe</td><td/><td/><td>_B8AF2552_50AA_49FB_B7F3_46CADDA93610_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x264_32_8bit.exe</td><td/><td/><td>_D1D5498F_FE4E_492E_83A0_B84B52B6CB68_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x264_64_10bit.exe</td><td/><td/><td>_D63C171B_CE8D_4C5F_8981_3990B196EDB3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x264_64_8bit.exe</td><td/><td/><td>_B47FDAFB_9C91_46B7_B89A_36B6F65ADB77_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x265_32.exe</td><td/><td/><td>_DE379132_4D42_4843_ABFB_AEC9D359157B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>x265_64.exe</td><td/><td/><td>_4E188B2A_BB2C_45F4_A978_8A2123CF3877_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>xiaowan.exe</td><td/><td/><td>_A1C093DA_0803_4679_BE16_A74931AFF2AD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>xiaowan.resources.dll</td><td/><td/><td>_5A973E7A_D862_41FA_B4C7_B6201EDE2665_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>xiaowan.resources.dll1</td><td/><td/><td>_88BAFE00_A201_4E0D_934F_E0970269A26A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>xiaowan.resources.dll2</td><td/><td/><td>_D230DBFE_20E6_4CBE_B5BD_4DC59DA4C4F8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>xy_VSFilter.dll</td><td/><td/><td>_B0331AFE_8473_4020_9999_D878D37E1B14_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2914,12 +3235,6 @@
 		<row><td>WindowsFolder</td><td/><td/><td>1</td></row>
 	</table>
 
-	<table name="ISPowerShellWrap">
-		<col key="yes" def="s72">Action_</col>
-		<col key="yes" def="s72">Name</col>
-		<col def="S0">Value</col>
-	</table>
-
 	<table name="ISProductConfiguration">
 		<col key="yes" def="s72">ISProductConfiguration</col>
 		<col def="S255">ProductConfigurationFlags</col>
@@ -3187,9 +3502,7 @@
 		<col def="I2">Order</col>
 		<col def="I2">ISSetupLocation</col>
 		<col def="S255">ISReleaseFlags</col>
-		<row><td>_08AF8697_D91D_4AE5_B821_6DE642E174B5_</td><td>Microsoft Visual C++ 2012 Redistributable Package (x86).prq</td><td/><td/><td/></row>
-		<row><td>_646E3D80_5A33_4368_A120_EBD4B0C4EDCD_</td><td>Microsoft .NET Framework 3.5 SP1.prq</td><td/><td>0</td><td/></row>
-		<row><td>_C344FCF4_5B17_4114_94E8_56D36A33C810_</td><td>Microsoft Visual C++ 2010 Redistributable Package (x86).prq</td><td/><td/><td/></row>
+		<row><td>_F4B39203_CCB8_4E3B_98B8_FAE7D52495AE_</td><td>Microsoft .NET Framework 4.0 Full.prq</td><td/><td/><td/></row>
 	</table>
 
 	<table name="ISSetupType">
@@ -3223,11 +3536,13 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>2052</td><td>Maruko Toolbox Project</td><td>0</td><td/><td>-1734097324</td></row>
+		<row><td>COMPANY_NAME</td><td>2052</td><td>Maruko Toolbox Project</td><td>0</td><td/><td>748933705</td></row>
 		<row><td>DN_AlwaysInstall</td><td>2052</td><td>始终安装</td><td>0</td><td/><td>-1734117900</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>2052</td><td>系统颜色设置不足以运行 [ProductName]。</td><td>0</td><td/><td>-1734117900</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION35SP1</td><td>1033</td><td>Microsoft .NET Framework 3.5 SP1 needs to be installed for this installation to continue.</td><td>0</td><td/><td>-1734132076</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION35SP1</td><td>2052</td><td>Microsoft .NET Framework 3.5 SP1 needs to be installed for this installation to continue.</td><td>0</td><td/><td>-1734132076</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40FULL</td><td>1033</td><td>Microsoft .NET Framework 4.0 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>748886633</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40FULL</td><td>2052</td><td>Microsoft .NET Framework 4.0 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>748886633</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>2052</td><td>操作系统不足以运行 [ProductName]。</td><td>0</td><td/><td>-1734117900</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_PROCESSOR</td><td>2052</td><td>处理器不足以运行 [ProductName]。</td><td>0</td><td/><td>-1734117900</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_RAM</td><td>2052</td><td>RAM 量不足以运行 [ProductName]。</td><td>0</td><td/><td>-1734117900</td></row>
@@ -4089,6 +4404,12 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME31</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1763917430</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME32</td><td>1033</td><td/><td>0</td><td/><td>1763922807</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME32</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1763928951</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME33</td><td>1033</td><td/><td>0</td><td/><td>748915529</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME33</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>748921673</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME34</td><td>1033</td><td>卸载小丸工具箱</td><td>0</td><td/><td>1420005005</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME34</td><td>2052</td><td>卸载小丸工具箱</td><td>0</td><td/><td>1420005005</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME35</td><td>1033</td><td/><td>0</td><td/><td>1420009101</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME35</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1420017293</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td/><td>0</td><td/><td>-1734113643</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>2052</td><td>LAUNCH~1.EXE|Launch ffmpeg.exe</td><td>0</td><td/><td>-1734113643</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td/><td>0</td><td/><td>-1734127916</td></row>
@@ -4392,8 +4713,12 @@
 		<row><td>ID_STRING1</td><td>2052</td><td/><td>0</td><td/><td>-1734117900</td></row>
 		<row><td>ID_STRING10</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>1763941239</td></row>
 		<row><td>ID_STRING10</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1763941239</td></row>
-		<row><td>ID_STRING2</td><td>2052</td><td>http://www.maruko.in</td><td>0</td><td/><td>1763941622</td></row>
-		<row><td>ID_STRING3</td><td>2052</td><td>Maruko Toolbox Project</td><td>0</td><td/><td>-1734117900</td></row>
+		<row><td>ID_STRING11</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>748895081</td></row>
+		<row><td>ID_STRING11</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>748895081</td></row>
+		<row><td>ID_STRING12</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>1419976365</td></row>
+		<row><td>ID_STRING12</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1419976365</td></row>
+		<row><td>ID_STRING2</td><td>2052</td><td>http://www.MarukoToolboxProject.com</td><td>0</td><td/><td>748933705</td></row>
+		<row><td>ID_STRING3</td><td>2052</td><td>Maruko Toolbox Project</td><td>0</td><td/><td>748933705</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>NEWSHO~1|NewShortcut1</td><td>0</td><td/><td>-1734142188</td></row>
 		<row><td>ID_STRING4</td><td>2052</td><td>卸载小丸工具箱</td><td>0</td><td/><td>-1734097132</td></row>
 		<row><td>ID_STRING5</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>-1734088940</td></row>
@@ -4403,7 +4728,7 @@
 		<row><td>ID_STRING7</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>1629687599</td></row>
 		<row><td>ID_STRING7</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1629687599</td></row>
 		<row><td>ID_STRING8</td><td>1033</td><td>http://www.maruko.in</td><td>0</td><td/><td>1763960054</td></row>
-		<row><td>ID_STRING8</td><td>2052</td><td>http://www.maruko.in</td><td>0</td><td/><td>1763960054</td></row>
+		<row><td>ID_STRING8</td><td>2052</td><td>http://www.MarukoToolboxProject.com</td><td>0</td><td/><td>748933705</td></row>
 		<row><td>ID_STRING9</td><td>1033</td><td>小丸工具箱</td><td>0</td><td/><td>1763937910</td></row>
 		<row><td>ID_STRING9</td><td>2052</td><td>小丸工具箱</td><td>0</td><td/><td>1763937910</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>2052</td><td>系统将不安装此功能。</td><td>0</td><td/><td>-1734117900</td></row>
@@ -4473,6 +4798,12 @@
 		<col def="s255">Value</col>
 	</table>
 
+	<table name="ISWSEWrap">
+		<col key="yes" def="s72">Action_</col>
+		<col key="yes" def="s72">Name</col>
+		<col def="S0">Value</col>
+	</table>
+
 	<table name="ISXmlElement">
 		<col key="yes" def="s72">ISXmlElement</col>
 		<col def="s72">ISXmlFile_</col>
@@ -4514,16 +4845,20 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProjectFolder&gt;\image\wan.ico</td><td>0</td></row>
-		<row><td>NewShortcut1_A91663CD1CC24980ADFA8F288C35838C.exe</td><td/><td>&lt;ISProjectFolder&gt;\image\unwan2.ico</td><td>0</td></row>
+		<row><td>Shortcut_5F97AE04DC014919A1CD465569D5A21C.exe</td><td/><td>&lt;ISProjectFolder&gt;\image\unwan2.ico</td><td>0</td></row>
 		<row><td>xiaowan.exe1_1EB380E00E0A462A946D9CCFF23E996C.exe</td><td/><td>&lt;ISProjectFolder&gt;\image\wan.ico</td><td>0</td></row>
 		<row><td>xiaowan.exe1_4947E3634D0743FB9DCEC324431BA4D3.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe1_6AD6241B6E9B421FA8EE03B29D41E359.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe1_84979BD787F64BE08CFD6629028F7620.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
+		<row><td>xiaowan.exe1_ABBE4CCEF4EE4F2EA0AA6714C2109D0F.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
+		<row><td>xiaowan.exe1_B8628FB9AC444BC9921F572E17078CCD.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe1_DA7174FDF06F4E81A2AB6F451D999AA7.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe_043CBE791ACC40B8998B39BF1449198C.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe_66276F18E336425185801B50ECE601BA.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe_7690A5D0AB464733B004722D246B7FFE.exe</td><td/><td>&lt;ISProjectFolder&gt;\image\wan.ico</td><td>0</td></row>
+		<row><td>xiaowan.exe_8698E60D1A284D069B0EB334FBD9CC89.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe_CB753EA937D14A34A6C90C0BDD5D075B.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
+		<row><td>xiaowan.exe_ECDDE696561A4FDBA48B8A3A4390E749.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 		<row><td>xiaowan.exe_FFE007F92C5342C7B50EDBBE7B285FB4.exe</td><td/><td>F:\xiaowan\xiaowan.exe</td><td>0</td></row>
 	</table>
 
@@ -4669,7 +5004,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>SaveAsSchema</td><td/></row>
 		<row><td>SccEnabled</td><td>0</td></row>
 		<row><td>SccPath</td><td/></row>
-		<row><td>SchemaVersion</td><td>774</td></row>
+		<row><td>SchemaVersion</td><td>776</td></row>
 		<row><td>Type</td><td>MSIE</td></row>
 	</table>
 
@@ -4715,7 +5050,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 	<table name="LaunchCondition">
 		<col key="yes" def="s255">Condition</col>
 		<col def="l255">Description</col>
-		<row><td>DOTNETVERSION35SP1&gt;="#1"</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION35SP1##</td></row>
+		<row><td>DOTNETVERSION40FULL&gt;="#1"</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40FULL##</td></row>
 	</table>
 
 	<table name="ListBox">
@@ -5033,7 +5368,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>ProductCode</td><td>{393C6B8D-805E-47C7-AC29-2F915A96C6E9}</td><td/></row>
 		<row><td>ProductName</td><td>小丸工具箱</td><td/></row>
-		<row><td>ProductVersion</td><td>1.1.117.0</td><td/></row>
+		<row><td>ProductVersion</td><td>1.1.190.0</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -5045,10 +5380,10 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>RestartManagerOption</td><td>CloseRestart</td><td/></row>
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
-		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION35SP1</td><td/></row>
+		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION40FULL</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
-		<row><td>UpgradeCode</td><td>{3AB5A297-0401-4083-AFF1-F60C2FE64512}</td><td/></row>
+		<row><td>UpgradeCode</td><td>{A7E9D678-8CED-4AF7-A701-65E6D7836BDA}</td><td/></row>
 		<row><td>_IsMaintenance</td><td>Change</td><td/></row>
 		<row><td>_IsSetupTypeMin</td><td>Typical</td><td/></row>
 	</table>
@@ -5090,7 +5425,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s255">Key</col>
 		<col def="S255">Name</col>
 		<col def="I2">Type</col>
-		<row><td>DotNet35SP1</td><td>2</td><td>SOFTWARE\Microsoft\NET Framework Setup\NDP\v3.5</td><td>SP</td><td>2</td></row>
+		<row><td>DotNet40Full</td><td>2</td><td>SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full</td><td>Install</td><td>2</td></row>
 	</table>
 
 	<table name="Registry">
@@ -5109,10 +5444,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="L255">FileName</col>
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
-		<row><td>FileKey1</td><td>xiaowan.exe</td><td/><td>maruko_1_maruko_toolbox_project</td><td>2</td></row>
-		<row><td>FileKey2</td><td>xiaowan.exe</td><td/><td>product_name1</td><td>2</td></row>
-		<row><td>NewShortcut1</td><td>ISX_DEFAULTCOMPONENT</td><td/><td>product_name</td><td>2</td></row>
-		<row><td>xiaowan.exe</td><td>xiaowan.exe</td><td/><td>product_name</td><td>2</td></row>
+		<row><td>Shortcut</td><td>IS_ININSTALL_SHORTCUT</td><td/><td>directory2</td><td>2</td></row>
+		<row><td>xiaowan.exe</td><td>xiaowan.exe</td><td/><td>directory2</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -5198,9 +5531,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>NewShortcut1</td><td>product_name</td><td>##ID_STRING4##</td><td>ISX_DEFAULTCOMPONENT</td><td>[SystemFolder]MsiExec.exe</td><td>/x [ProductCode]</td><td/><td/><td>NewShortcut1_A91663CD1CC24980ADFA8F288C35838C.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>xiaowan.exe</td><td>product_name</td><td>##IDS_SHORTCUT_DISPLAY_NAME32##</td><td>xiaowan.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>xiaowan.exe_043CBE791ACC40B8998B39BF1449198C.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>xiaowan.exe1</td><td>DesktopFolder</td><td>##ID_STRING10##</td><td>xiaowan.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>xiaowan.exe1_4947E3634D0743FB9DCEC324431BA4D3.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>Shortcut</td><td>directory2</td><td>##IDS_SHORTCUT_DISPLAY_NAME34##</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {393C6B8D-805E-47C7-AC29-2F915A96C6E9}</td><td/><td/><td>Shortcut_5F97AE04DC014919A1CD465569D5A21C.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>xiaowan.exe</td><td>directory2</td><td>##IDS_SHORTCUT_DISPLAY_NAME35##</td><td>xiaowan.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>xiaowan.exe_ECDDE696561A4FDBA48B8A3A4390E749.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>xiaowan.exe1</td><td>DesktopFolder</td><td>##ID_STRING12##</td><td>xiaowan.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>xiaowan.exe1_ABBE4CCEF4EE4F2EA0AA6714C2109D0F.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
@@ -5806,9 +6139,6 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISPathVariable</td><td>TestValue</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>The test value of the path variable.</td></row>
 		<row><td>ISPathVariable</td><td>Type</td><td>N</td><td/><td/><td/><td/><td/><td>1;2;4;8</td><td>The type of the path variable.</td></row>
 		<row><td>ISPathVariable</td><td>Value</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>The value of the path variable.</td></row>
-		<row><td>ISPowerShellWrap</td><td>Action_</td><td>N</td><td/><td/><td>CustomAction</td><td>1</td><td>Identifier</td><td/><td>Foreign key into CustomAction table</td></row>
-		<row><td>ISPowerShellWrap</td><td>Name</td><td>N</td><td/><td/><td/><td/><td>Text</td><td/><td>Property associated with this Action</td></row>
-		<row><td>ISPowerShellWrap</td><td>Value</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>Value associated with this Property</td></row>
 		<row><td>ISProductConfiguration</td><td>GeneratePackageCode</td><td>Y</td><td/><td/><td/><td/><td>Number</td><td>0;1</td><td>Indicates whether or not to generate a package code.</td></row>
 		<row><td>ISProductConfiguration</td><td>ISProductConfiguration</td><td>N</td><td/><td/><td/><td/><td>Text</td><td/><td>The name of the product configuration.</td></row>
 		<row><td>ISProductConfiguration</td><td>ProductConfigurationFlags</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>Product configuration (release) flags.</td></row>
@@ -6046,6 +6376,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISVirtualShortcut</td><td>Name</td><td>N</td><td/><td/><td/><td/><td>Identifier</td><td/><td>Property name</td></row>
 		<row><td>ISVirtualShortcut</td><td>Shortcut_</td><td>N</td><td/><td/><td>Shortcut</td><td>1</td><td>Identifier</td><td/><td>Foreign key into Shortcut table.</td></row>
 		<row><td>ISVirtualShortcut</td><td>Value</td><td>N</td><td/><td/><td/><td/><td/><td/><td>Property value</td></row>
+		<row><td>ISWSEWrap</td><td>Action_</td><td>N</td><td/><td/><td>CustomAction</td><td>1</td><td>Identifier</td><td/><td>Foreign key into CustomAction table</td></row>
+		<row><td>ISWSEWrap</td><td>Name</td><td>N</td><td/><td/><td/><td/><td>Text</td><td/><td>Property associated with this Action</td></row>
+		<row><td>ISWSEWrap</td><td>Value</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>Value associated with this Property</td></row>
 		<row><td>ISXmlElement</td><td>Content</td><td>Y</td><td/><td/><td/><td/><td>Text</td><td/><td>Element contents</td></row>
 		<row><td>ISXmlElement</td><td>ISAttributes</td><td>Y</td><td/><td/><td/><td/><td>Number</td><td/><td>Internal XML element attributes</td></row>
 		<row><td>ISXmlElement</td><td>ISXmlElement</td><td>N</td><td/><td/><td/><td/><td>Identifier</td><td/><td>Primary key, non-localized, internal token for Xml element</td></row>
